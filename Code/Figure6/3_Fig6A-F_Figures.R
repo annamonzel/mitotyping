@@ -152,22 +152,24 @@ cor_res <- mtPPS %>%
   nest(-Pathway) %>%
   mutate(cor=map(data,~cor.test(.x$value, .x$Passage, method = "sp"))) %>%
   mutate(tidied = map(cor, tidy)) %>%
-  unnest(tidied, .drop = T)
+  unnest(tidied, .drop = T)%>%
+  mutate(padj = p.adjust(p.value, method = "BH"))
 
 ## Top and bottom 10 pathways
 top_10 <- cor_res %>%
-  dplyr::filter( (p.value < 0.05) | (p.value = 0.05) ) %>%
+  dplyr::filter( (padj < 0.05) | (padj = 0.05) ) %>%
   ungroup() %>%
   arrange(desc(estimate)) %>%
   dplyr::slice(1:10) %>%
   pull(Pathway)
 
 bottom_10 <- cor_res %>%
-  dplyr::filter( (p.value < 0.05) | (p.value = 0.05) ) %>%
+  dplyr::filter( (padj < 0.05) | (padj = 0.05) ) %>%
   ungroup() %>%
   arrange(estimate) %>%
   dplyr::slice(1:10) %>%
   pull(Pathway)
+
 
 test <- mtPPS  %>%
   ungroup() %>%
