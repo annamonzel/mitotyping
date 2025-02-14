@@ -1,0 +1,11 @@
+This is a demo-code for some of the figures presented in "A Quantitative Approach to Mapping Mitochondrial Specialization and Plasticity". It contains some of the highlight figures and the code to generate them. The code is written in R. 
+- Required software: R 4.3.2 and Rstudio
+- For package versions and other information see sessionInfo.txt
+
+Instructions:
+1. Open the Rproject file "R_MitotypesDEMO.Rproj" in Rstudio
+2. Run the code in the file "main_demo.R"
+3. The figures should be displayed in the "Plots" panel in Rstudio
+4. Each individual code file can also be found in the "Code" folder
+5. The data used in the demo can be found in the "MitoData" folder. It contains only mitochondrial genes, calculated pathway scores, or calculated mitoPPS. 
+6. The full code for all figures in the paper can be found on github: https://github.com/annamonzel/mitotyping. This requires downloading the original datasets from their public repositories.
