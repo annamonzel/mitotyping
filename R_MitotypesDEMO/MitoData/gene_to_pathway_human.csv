@@ -1,0 +1,3905 @@
+Pathway,Gene
+Mitochondrial central dogma,AARS2
+mtDNA maintenance,APEX1
+mtDNA replication,DNA2
+mtDNA nucleoid,ATAD3A
+mtDNA repair,APEX1
+mtDNA modifications,METTL4
+mtDNA stability and decay,ENDOG
+mtRNA metabolism,ALKBH1
+Transcription,MRPL12
+mtRNA granules,ALKBH1
+Polycistronic mtRNA processing,ELAC2
+mt-tRNA modifications,ALKBH1
+mt-rRNA modifications,METTL15
+mt-mRNA modifications,ANGEL2
+mtRNA stability and decay,ENDOG
+Translation,AARS2
+Mitochondrial ribosome,AURKAIP1
+Mitochondrial ribosome assembly,DDX28
+Translation factors,C12orf65
+mt-tRNA synthetases,AARS2
+fMet processing,METAP1D
+"Protein import, sorting and homeostasis",AFG1L
+Protein import and sorting,AGK
+TOM,TOMM20
+SAM,MTX1
+MIA40,AIFM1
+TIM22 carrier pathway,AGK
+TIM23 presequence pathway,ROMO1
+Import motor,DNAJC15
+OXA,OXA1L
+Preprotein cleavage,IMMP1L
+Protein homeostasis,AFG1L
+Proteases,AFG1L
+Chaperones,DNAJA3
+OXPHOS,ACAD9
+OXPHOS subunits,ATP5F1A
+OXPHOS assembly factors,ACAD9
+Complex I,ACAD9
+CI subunits,MT-ND1
+CI assembly factors,ACAD9
+Complex II,SDHA
+CII subunits,SDHA
+CII assembly factors,SDHAF1
+Complex III,BCS1L
+CIII subunits,CYC1
+CIII assembly factors,BCS1L
+Complex IV,CEP89
+CIV subunits,COX4I1
+CIV assembly factors,CEP89
+Complex V,ATP5F1A
+CV subunits,ATP5F1A
+CV assembly factors,ATPAF1
+Respirasome assembly,COX7A2L
+Cytochrome C,CYCS
+Metabolism,AADAT
+Carbohydrate metabolism,ABHD11
+Gluconeogenesis,MDH2
+Malate-aspartate shuttle,GOT2
+Glycerol phosphate shuttle,GPD2
+Pyruvate metabolism,DLAT
+TCA cycle,ACO2
+TCA-associated,ABHD11
+Itaconate metabolism,ACOD1
+Ketone metabolism,ACAA2
+Propanoate metabolism,MCEE
+Lipid metabolism,ACAA1
+Fatty acid oxidation,ACAA2
+Type II fatty acid synthesis,ACACA
+Lipoate insertion,GCSH
+Cardiolipin synthesis,AGPAT4
+"Cholesterol, bile acid, steroid synthesis",CYP11A1
+Cholesterol-associated,FDPS
+Phospholipid metabolism,ACP6
+Eicosanoid metabolism,MGST3
+Amino acid metabolism,AADAT
+Branched-chain amino acid metabolism,ACAD8
+Branched-chain amino acid dehydrogenase complex,BCKDHA
+Lysine metabolism,AADAT
+Serine metabolism,AGXT
+Glycine metabolism,ALDH7A1
+Glycine cleavage system,AMT
+Glutamate metabolism,GLS
+Proline metabolism,ALDH18A1
+Glyoxylate metabolism,AGXT
+GABA metabolism,ABAT
+Catechol metabolism,COMT
+Kynurenine metabolism,GOT2
+Urea cycle,CA5A
+Nucleotide metabolism,AK2
+Nucleotide import,SLC25A23
+Nucleotide synthesis and processing,AK2
+Creatine metabolism,CKMT1A
+Metals and cofactors,ABAT
+Carnitine synthesis and transport,CPT1A
+Carnitine shuttle,CPT1A
+Coenzyme A metabolism,COASY
+Coenzyme Q metabolism,COQ10A
+Copper metabolism,CHCHD7
+Iron homeostasis,FAM210B
+Heme synthesis and processing,ABCB10
+Fe-S cluster biosynthesis,ABCB7
+Molybdenum cofactor synthesis and proteins,ABCB7
+NAD biosynthesis and metabolism,KMO
+Tetrahydrobiopterin synthesis,PCBD2
+Fe-S-containing proteins,ABAT
+Heme-containing proteins,CYB5B
+Vitamin metabolism,ACACA
+Choline and betaine metabolism,ALDH7A1
+Biotin utilizing proteins,ACACA
+Vitamin A metabolism,AKR1B10
+Vitamin B1 metabolism,SLC25A19
+Vitamin B2 metabolism,FLAD1
+Vitamin B6 metabolism,PLPBP
+Vitamin B12 metabolism,MMAA
+Vitamin C metabolism,GLRX2
+Vitamin D metabolism,CYP24A1
+Folate and 1-C metabolism,ALDH1L1
+Detoxification,ABHD10
+Xenobiotic metabolism,ABHD10
+ROS and glutathione metabolism,AIFM2
+Amidoxime reducing complex,CYB5B
+Selenoproteins,GPX1
+Electron carriers,CHDH
+Cytochromes,CYB5B
+"Q-linked reactions, other",CHDH
+Sulfur metabolism,ETHE1
+Small molecule transport,ABCA9
+SLC25A family,MTCH1
+ABC transporters,ABCA9
+Sideroflexins,SFXN1
+Calcium uniporter,MCU
+Signaling,ACOD1
+Calcium homeostasis,EFHD1
+Calcium cycle,LETM1
+Mitochondrial permeability transition pore,PPIF
+EF hand proteins,EFHD1
+Immune response,ACOD1
+cAMP-PKA signaling,ADCY10
+Mitochondrial dynamics and surveillance,AHCYL1
+Fusion,ARL2
+Fission,ARMC10
+Organelle contact sites,AHCYL1
+Intramitochondrial membrane interactions,ATAD3A
+Trafficking,ARMC10
+Mitophagy,BCL2L13
+Autophagy,BCL2L13
+Apoptosis,AIFM1
+Cristae formation,APOO
+MICOS complex,APOO
+Mitochondrial central dogma,ALKBH1
+mtDNA maintenance,ATAD3A
+mtDNA replication,EXOG
+mtDNA nucleoid,ATAD3B
+mtDNA repair,EXOG
+mtDNA stability and decay,EXOG
+mtRNA metabolism,ANGEL2
+Transcription,MTERF1
+mtRNA granules,DDX28
+Polycistronic mtRNA processing,FASTK
+mt-tRNA modifications,CDK5RAP1
+mt-rRNA modifications,METTL17
+mt-mRNA modifications,MTPAP
+mtRNA stability and decay,FASTK
+Translation,AURKAIP1
+Mitochondrial ribosome,CHCHD1
+Mitochondrial ribosome assembly,DHX30
+Translation factors,COA3
+mt-tRNA synthetases,CARS2
+fMet processing,MTFMT
+"Protein import, sorting and homeostasis",AFG3L2
+Protein import and sorting,AIFM1
+TOM,TOMM22
+SAM,MTX2
+MIA40,CHCHD4
+TIM22 carrier pathway,TIMM22
+TIM23 presequence pathway,TIMM17A
+Import motor,DNAJC19
+Preprotein cleavage,IMMP2L
+Protein homeostasis,AFG3L2
+Proteases,AFG3L2
+Chaperones,DNLZ
+OXPHOS,AIFM1
+OXPHOS subunits,ATP5F1B
+OXPHOS assembly factors,AIFM1
+Complex I,AIFM1
+CI subunits,MT-ND2
+CI assembly factors,AIFM1
+Complex II,SDHAF1
+CII subunits,SDHB
+CII assembly factors,SDHAF2
+Complex III,CYC1
+CIII subunits,MT-CYB
+CIII assembly factors,LYRM7
+Complex IV,CMC1
+CIV subunits,COX4I2
+CIV assembly factors,CMC1
+Complex V,ATP5F1B
+CV subunits,ATP5F1B
+CV assembly factors,ATPAF2
+Respirasome assembly,HIGD1A
+Cytochrome C,HCCS
+Metabolism,AASS
+Carbohydrate metabolism,ACAA2
+Gluconeogenesis,MPC1
+Malate-aspartate shuttle,MDH2
+Pyruvate metabolism,DLD
+TCA cycle,CS
+TCA-associated,ACLY
+Itaconate metabolism,AUH
+Ketone metabolism,ACAT1
+Propanoate metabolism,MMUT
+Lipid metabolism,ACAA2
+Fatty acid oxidation,ACACB
+Type II fatty acid synthesis,ACSF3
+Lipoate insertion,LIAS
+Cardiolipin synthesis,AGPAT5
+"Cholesterol, bile acid, steroid synthesis",CYP11B1
+Cholesterol-associated,IDI1
+Phospholipid metabolism,AGK
+Eicosanoid metabolism,PTGES2
+Amino acid metabolism,AASS
+Branched-chain amino acid metabolism,ACADSB
+Branched-chain amino acid dehydrogenase complex,BCKDHB
+Lysine metabolism,AASS
+Serine metabolism,SDSL
+Glycine metabolism,AMT
+Glycine cleavage system,DLD
+Glutamate metabolism,GLS2
+Proline metabolism,ALDH4A1
+Glyoxylate metabolism,AGXT2
+GABA metabolism,ADHFE1
+Catechol metabolism,MAOA
+Kynurenine metabolism,KMO
+Urea cycle,CA5B
+Nucleotide metabolism,AK3
+Nucleotide import,SLC25A24
+Nucleotide synthesis and processing,AK3
+Creatine metabolism,CKMT1B
+Metals and cofactors,ABCB10
+Carnitine synthesis and transport,CPT1B
+Carnitine shuttle,CPT1B
+Coenzyme A metabolism,NUDT19
+Coenzyme Q metabolism,COQ10B
+Copper metabolism,COX11
+Iron homeostasis,FTH1
+Heme synthesis and processing,ABCB6
+Fe-S cluster biosynthesis,BOLA1
+Molybdenum cofactor synthesis and proteins,MOCS1
+NAD biosynthesis and metabolism,KYAT3
+Tetrahydrobiopterin synthesis,QDPR
+Fe-S-containing proteins,ACO2
+Heme-containing proteins,CYC1
+Vitamin metabolism,ACACB
+Choline and betaine metabolism,CHDH
+Biotin utilizing proteins,ACACB
+Vitamin A metabolism,BCO2
+Vitamin B2 metabolism,RFK
+Vitamin B6 metabolism,PNPO
+Vitamin B12 metabolism,MMAB
+Vitamin C metabolism,TXN2
+Vitamin D metabolism,CYP27B1
+Folate and 1-C metabolism,ALDH1L2
+Detoxification,ACSM2A
+Xenobiotic metabolism,ACSM2A
+ROS and glutathione metabolism,ALDH3A2
+Amidoxime reducing complex,CYB5R3
+Selenoproteins,GPX4
+Electron carriers,CYB5B
+Cytochromes,CYC1
+"Q-linked reactions, other",DHODH
+Sulfur metabolism,GOT2
+Small molecule transport,ABCB10
+SLC25A family,MTCH2
+ABC transporters,ABCB10
+Sideroflexins,SFXN2
+Calcium uniporter,MCUB
+Signaling,ADCY10
+Calcium homeostasis,LETM1
+Calcium cycle,MCU
+Mitochondrial permeability transition pore,SLC25A31
+EF hand proteins,MICU1
+Immune response,C1QBP
+cAMP-PKA signaling,AKAP1
+Mitochondrial dynamics and surveillance,AIFM1
+Fusion,MFN1
+Fission,DNM1L
+Organelle contact sites,ATAD3A
+Intramitochondrial membrane interactions,ATAD3B
+Trafficking,ARMCX1
+Mitophagy,FKBP8
+Autophagy,FKBP8
+Apoptosis,AIFM2
+Cristae formation,APOOL
+MICOS complex,APOOL
+Mitochondrial central dogma,ANGEL2
+mtDNA maintenance,ATAD3B
+mtDNA replication,LIG3
+mtDNA nucleoid,MTERF1
+mtDNA repair,LIG3
+mtDNA stability and decay,MGME1
+mtRNA metabolism,CDK5RAP1
+Transcription,MTRES1
+mtRNA granules,DHX30
+Polycistronic mtRNA processing,FASTKD1
+mt-tRNA modifications,DUS2
+mt-rRNA modifications,METTL5
+mt-mRNA modifications,MYG1
+mtRNA stability and decay,FASTKD1
+Translation,C12orf65
+Mitochondrial ribosome,DAP3
+Mitochondrial ribosome assembly,ERAL1
+Translation factors,COX14
+mt-tRNA synthetases,DARS2
+fMet processing,PDF
+"Protein import, sorting and homeostasis",AGK
+Protein import and sorting,CHCHD4
+TOM,TOMM34
+SAM,SAMM50
+MIA40,GFER
+TIM22 carrier pathway,TIMM29
+TIM23 presequence pathway,TIMM17B
+Import motor,GRPEL1
+Preprotein cleavage,MIPEP
+Protein homeostasis,ATAD1
+Proteases,ATAD1
+Chaperones,FKBP10
+OXPHOS,ATP5F1A
+OXPHOS subunits,ATP5F1C
+OXPHOS assembly factors,ATPAF1
+Complex I,COA1
+CI subunits,MT-ND3
+CI assembly factors,COA1
+Complex II,SDHAF2
+CII subunits,SDHC
+CII assembly factors,SDHAF3
+Complex III,LYRM7
+CIII subunits,UQCR10
+CIII assembly factors,TTC19
+Complex IV,CMC2
+CIV subunits,COX5A
+CIV assembly factors,CMC2
+Complex V,ATP5F1C
+CV subunits,ATP5F1C
+CV assembly factors,ATPSCKMT
+Respirasome assembly,HIGD2A
+Metabolism,ABAT
+Carbohydrate metabolism,ACAT1
+Gluconeogenesis,MPC1L
+Malate-aspartate shuttle,SLC25A10
+Pyruvate metabolism,MPC1
+TCA cycle,DLD
+TCA-associated,D2HGDH
+Itaconate metabolism,CLYBL
+Ketone metabolism,BDH1
+Propanoate metabolism,PCCA
+Lipid metabolism,ACACA
+Fatty acid oxidation,ACAD10
+Type II fatty acid synthesis,CBR4
+Lipoate insertion,LIPT1
+Cardiolipin synthesis,CRLS1
+"Cholesterol, bile acid, steroid synthesis",CYP11B2
+Phospholipid metabolism,AGPAT4
+Eicosanoid metabolism,ZADH2
+Amino acid metabolism,ABAT
+Branched-chain amino acid metabolism,ACAT1
+Branched-chain amino acid dehydrogenase complex,BCKDK
+Lysine metabolism,ACAA2
+Serine metabolism,SFXN1
+Glycine metabolism,CHDH
+Glycine cleavage system,GCSH
+Glutamate metabolism,GLUD1
+Proline metabolism,OAT
+Glyoxylate metabolism,ALDH4A1
+GABA metabolism,AKR7A2
+Catechol metabolism,MAOB
+Kynurenine metabolism,KYAT3
+Urea cycle,CPS1
+Nucleotide metabolism,AK4
+Nucleotide import,SLC25A25
+Nucleotide synthesis and processing,AK4
+Creatine metabolism,CKMT2
+Metals and cofactors,ABCB6
+Carnitine synthesis and transport,CPT1C
+Carnitine shuttle,CPT1C
+Coenzyme A metabolism,NUDT8
+Coenzyme Q metabolism,COQ2
+Copper metabolism,COX17
+Iron homeostasis,FTMT
+Heme synthesis and processing,ABCB7
+Fe-S cluster biosynthesis,BOLA3
+Molybdenum cofactor synthesis and proteins,MTARC1
+NAD biosynthesis and metabolism,NADK2
+Tetrahydrobiopterin synthesis,SPR
+Fe-S-containing proteins,AIFM3
+Heme-containing proteins,CYCS
+Vitamin metabolism,AKR1B10
+Choline and betaine metabolism,DMGDH
+Biotin utilizing proteins,MCCC1
+Vitamin A metabolism,DHRS4
+Vitamin B2 metabolism,SLC25A32
+Vitamin B12 metabolism,MMADHC
+Vitamin D metabolism,FDX1
+Folate and 1-C metabolism,ALDH7A1
+Detoxification,ACSM5
+Xenobiotic metabolism,ACSM5
+ROS and glutathione metabolism,ALDH7A1
+Amidoxime reducing complex,MTARC1
+Selenoproteins,SELENOO
+Electron carriers,CYC1
+Cytochromes,CYCS
+"Q-linked reactions, other",ETFA
+Sulfur metabolism,MPST
+Small molecule transport,ABCB6
+SLC25A family,SLC25A1
+ABC transporters,ABCB6
+Sideroflexins,SFXN3
+Calcium uniporter,MICU1
+Signaling,AKAP1
+Calcium homeostasis,MCU
+Calcium cycle,MCUB
+Mitochondrial permeability transition pore,SLC25A4
+EF hand proteins,MICU2
+Immune response,IFI27
+cAMP-PKA signaling,AKAP10
+Mitochondrial dynamics and surveillance,AIFM2
+Fusion,MFN2
+Fission,FIS1
+Organelle contact sites,ATAD3B
+Intramitochondrial membrane interactions,CHCHD3
+Trafficking,ARMCX3
+Mitophagy,FUNDC1
+Autophagy,FUNDC1
+Apoptosis,AIFM3
+Cristae formation,ATP5MD
+MICOS complex,CHCHD3
+Mitochondrial central dogma,APEX1
+mtDNA maintenance,DNA2
+mtDNA replication,MGME1
+mtDNA nucleoid,MTERF2
+mtDNA repair,OGG1
+mtRNA metabolism,DDX28
+Transcription,POLRMT
+mtRNA granules,ERAL1
+Polycistronic mtRNA processing,FASTKD2
+mt-tRNA modifications,GTPBP3
+mt-rRNA modifications,MRM1
+mt-mRNA modifications,PDE12
+mtRNA stability and decay,FASTKD2
+Translation,CARS2
+Mitochondrial ribosome,GADD45GIP1
+Mitochondrial ribosome assembly,FASTKD2
+Translation factors,GFM1
+mt-tRNA synthetases,EARS2
+"Protein import, sorting and homeostasis",AIFM1
+Protein import and sorting,DNAJC11
+TOM,TOMM40
+TIM23 presequence pathway,TIMM21
+Import motor,GRPEL2
+Preprotein cleavage,PMPCA
+Protein homeostasis,ATP23
+Proteases,ATP23
+Chaperones,HSPD1
+OXPHOS,ATP5F1B
+OXPHOS subunits,ATP5F1D
+OXPHOS assembly factors,ATPAF2
+Complex I,DMAC1
+CI subunits,MT-ND4
+CI assembly factors,DMAC1
+Complex II,SDHAF3
+CII subunits,SDHD
+CII assembly factors,SDHAF4
+Complex III,MT-CYB
+CIII subunits,UQCR11
+CIII assembly factors,UQCC1
+Complex IV,COA1
+CIV subunits,COX5B
+CIV assembly factors,COA1
+Complex V,ATP5F1D
+CV subunits,ATP5F1D
+CV assembly factors,FMC1
+Respirasome assembly,RAB5IF
+Metabolism,ABCB10
+Carbohydrate metabolism,ACLY
+Gluconeogenesis,MPC2
+Malate-aspartate shuttle,SLC25A11
+Pyruvate metabolism,MPC1L
+TCA cycle,DLST
+TCA-associated,FAHD1
+Itaconate metabolism,SUCLA2
+Ketone metabolism,HADHB
+Propanoate metabolism,PCCB
+Lipid metabolism,ACACB
+Fatty acid oxidation,ACAD11
+Type II fatty acid synthesis,HSD17B8
+Lipoate insertion,LIPT2
+Cardiolipin synthesis,GPAM
+"Cholesterol, bile acid, steroid synthesis",CYP27A1
+Phospholipid metabolism,AGPAT5
+Amino acid metabolism,ACAA2
+Branched-chain amino acid metabolism,ALDH6A1
+Branched-chain amino acid dehydrogenase complex,DBT
+Lysine metabolism,ACAT1
+Serine metabolism,SFXN3
+Glycine metabolism,DLD
+Glycine cleavage system,GLDC
+Glutamate metabolism,GLUD2
+Proline metabolism,PRODH
+Glyoxylate metabolism,GOT2
+GABA metabolism,ALDH5A1
+Urea cycle,NAGS
+Nucleotide metabolism,ANTKMT
+Nucleotide import,SLC25A31
+Nucleotide synthesis and processing,CMPK2
+Creatine metabolism,GATM
+Metals and cofactors,ABCB7
+Carnitine synthesis and transport,CPT2
+Carnitine shuttle,CPT2
+Coenzyme A metabolism,PANK2
+Coenzyme Q metabolism,COQ3
+Copper metabolism,COX19
+Iron homeostasis,SLC25A28
+Heme synthesis and processing,ALAS1
+Fe-S cluster biosynthesis,CISD1
+Molybdenum cofactor synthesis and proteins,MTARC2
+NAD biosynthesis and metabolism,NAXD
+Fe-S-containing proteins,BOLA1
+Heme-containing proteins,CYP11A1
+Vitamin metabolism,ALDH1L1
+Choline and betaine metabolism,ETFA
+Biotin utilizing proteins,PC
+Vitamin A metabolism,RDH13
+Vitamin B12 metabolism,MMUT
+Vitamin D metabolism,FDXR
+Folate and 1-C metabolism,AMT
+Detoxification,AIFM2
+Xenobiotic metabolism,AKR1B10
+ROS and glutathione metabolism,ALDH9A1
+Amidoxime reducing complex,MTARC2
+Selenoproteins,TXNRD1
+Electron carriers,CYCS
+Cytochromes,MT-CYB
+"Q-linked reactions, other",ETFB
+Sulfur metabolism,MSRA
+Small molecule transport,ABCB7
+SLC25A family,SLC25A10
+ABC transporters,ABCB7
+Sideroflexins,SFXN4
+Calcium uniporter,MICU2
+Signaling,AKAP10
+Calcium homeostasis,MCUB
+Calcium cycle,MICU1
+Mitochondrial permeability transition pore,SLC25A5
+EF hand proteins,MICU3
+Immune response,MAVS
+cAMP-PKA signaling,PDE2A
+Mitochondrial dynamics and surveillance,AIFM3
+Fusion,MIGA1
+Fission,MFF
+Organelle contact sites,FKBP8
+Intramitochondrial membrane interactions,DNAJC11
+Trafficking,MGARP
+Mitophagy,MARCHF5
+Autophagy,MARCHF5
+Apoptosis,BAD
+Cristae formation,ATP5ME
+MICOS complex,CHCHD6
+Mitochondrial central dogma,ATAD3A
+mtDNA maintenance,ENDOG
+mtDNA replication,POLG
+mtDNA nucleoid,POLDIP2
+mtDNA repair,POLB
+mtRNA metabolism,DHX30
+Transcription,TEFM
+mtRNA granules,FASTK
+Polycistronic mtRNA processing,FASTKD3
+mt-tRNA modifications,HSD17B10
+mt-rRNA modifications,MRM2
+mtRNA stability and decay,FASTKD3
+Translation,CHCHD1
+Mitochondrial ribosome,MRPL1
+Mitochondrial ribosome assembly,GRSF1
+Translation factors,GFM2
+mt-tRNA synthetases,FARS2
+"Protein import, sorting and homeostasis",ATAD1
+Protein import and sorting,DNAJC15
+TOM,TOMM40L
+TIM23 presequence pathway,TIMM23
+Import motor,PAM16
+Preprotein cleavage,PMPCB
+Protein homeostasis,CASP3
+Proteases,CASP3
+Chaperones,HSPE1
+OXPHOS,ATP5F1C
+OXPHOS subunits,ATP5F1E
+OXPHOS assembly factors,ATPSCKMT
+Complex I,DMAC2
+CI subunits,MT-ND4L
+CI assembly factors,DMAC2
+Complex II,SDHAF4
+Complex III,TTC19
+CIII subunits,UQCRB
+CIII assembly factors,UQCC2
+Complex IV,COA3
+CIV subunits,COX6A1
+CIV assembly factors,COA3
+Complex V,ATP5F1E
+CV subunits,ATP5F1E
+CV assembly factors,TMEM70
+Metabolism,ABCB6
+Carbohydrate metabolism,ACO2
+Gluconeogenesis,PC
+Malate-aspartate shuttle,SLC25A12
+Pyruvate metabolism,MPC2
+TCA cycle,FH
+TCA-associated,L2HGDH
+Itaconate metabolism,SUCLG1
+Ketone metabolism,HMGCL
+Lipid metabolism,ACAD10
+Fatty acid oxidation,ACADL
+Type II fatty acid synthesis,HTD2
+Cardiolipin synthesis,GPAT2
+"Cholesterol, bile acid, steroid synthesis",DHRS1
+Phospholipid metabolism,CHPT1
+Amino acid metabolism,ACAD8
+Branched-chain amino acid metabolism,AUH
+Branched-chain amino acid dehydrogenase complex,DLD
+Lysine metabolism,ALDH7A1
+Serine metabolism,SHMT2
+Glycine metabolism,DMGDH
+Glutamate metabolism,GOT2
+Proline metabolism,PYCR1
+Glyoxylate metabolism,GRHPR
+GABA metabolism,ALDH9A1
+Urea cycle,OTC
+Nucleotide metabolism,CKMT1A
+Nucleotide import,SLC25A33
+Nucleotide synthesis and processing,DGUOK
+Metals and cofactors,ACO2
+Carnitine synthesis and transport,SLC25A20
+Carnitine shuttle,SLC25A20
+Coenzyme A metabolism,SLC25A42
+Coenzyme Q metabolism,COQ4
+Copper metabolism,SCO1
+Iron homeostasis,SLC25A37
+Heme synthesis and processing,ALAS2
+Fe-S cluster biosynthesis,CISD3
+Molybdenum cofactor synthesis and proteins,SUOX
+NAD biosynthesis and metabolism,NAXE
+Fe-S-containing proteins,BOLA3
+Heme-containing proteins,CYP11B1
+Vitamin metabolism,ALDH1L2
+Choline and betaine metabolism,ETFB
+Biotin utilizing proteins,PCCA
+Vitamin A metabolism,RDH14
+Folate and 1-C metabolism,CHDH
+Detoxification,AKR1B10
+Xenobiotic metabolism,AKR7A2
+ROS and glutathione metabolism,CAT
+Selenoproteins,TXNRD2
+Electron carriers,DHODH
+"Q-linked reactions, other",ETFBKMT
+Sulfur metabolism,MSRB2
+Small molecule transport,ABCB8
+SLC25A family,SLC25A11
+ABC transporters,ABCB8
+Sideroflexins,SFXN5
+Calcium uniporter,MICU3
+Signaling,BLOC1S1
+Calcium homeostasis,MICU1
+Calcium cycle,MICU2
+Mitochondrial permeability transition pore,SLC25A6
+EF hand proteins,RHOT1
+Immune response,NLRX1
+cAMP-PKA signaling,PRKACA
+Mitochondrial dynamics and surveillance,APOO
+Fusion,MIGA2
+Fission,MIEF1
+Organelle contact sites,FUNDC2
+Intramitochondrial membrane interactions,MTX1
+Trafficking,MYO19
+Mitophagy,NIPSNAP1
+Autophagy,NBR1
+Apoptosis,BAK1
+Cristae formation,ATP5MG
+MICOS complex,IMMT
+Mitochondrial central dogma,ATAD3B
+mtDNA maintenance,EXOG
+mtDNA replication,POLG2
+mtDNA nucleoid,POLG
+mtDNA repair,POLG
+mtRNA metabolism,DUS2
+Transcription,TFAM
+mtRNA granules,FASTKD1
+Polycistronic mtRNA processing,FASTKD5
+mt-tRNA modifications,MTO1
+mt-rRNA modifications,MRM3
+mtRNA stability and decay,FASTKD5
+Translation,COA3
+Mitochondrial ribosome,MRPL10
+Mitochondrial ribosome assembly,GTPBP10
+Translation factors,HEMK1
+mt-tRNA synthetases,GARS1
+"Protein import, sorting and homeostasis",ATP23
+Protein import and sorting,DNAJC19
+TOM,TOMM5
+TIM23 presequence pathway,TIMM50
+Import motor,TIMM44
+Preprotein cleavage,UQCRC1
+Protein homeostasis,CASP8
+Proteases,CASP9
+Chaperones,MAIP1
+OXPHOS,ATP5F1D
+OXPHOS subunits,ATP5IF1
+OXPHOS assembly factors,BCS1L
+Complex I,ECSIT
+CI subunits,MT-ND5
+CI assembly factors,ECSIT
+Complex II,SDHB
+Complex III,UQCC1
+CIII subunits,UQCRC1
+CIII assembly factors,UQCC3
+Complex IV,COA4
+CIV subunits,COX6A2
+CIV assembly factors,COA4
+Complex V,ATP5IF1
+CV subunits,ATP5IF1
+Metabolism,ABCB7
+Carbohydrate metabolism,ACOD1
+Gluconeogenesis,PCK2
+Malate-aspartate shuttle,SLC25A13
+Pyruvate metabolism,PDHA1
+TCA cycle,IDH2
+TCA-associated,ME2
+Itaconate metabolism,SUCLG2
+Ketone metabolism,HMGCS2
+Lipid metabolism,ACAD11
+Fatty acid oxidation,ACADM
+Type II fatty acid synthesis,MCAT
+Cardiolipin synthesis,HADHA
+"Cholesterol, bile acid, steroid synthesis",FDX1
+Phospholipid metabolism,GPAM
+Amino acid metabolism,ACADSB
+Branched-chain amino acid metabolism,BCAT2
+Branched-chain amino acid dehydrogenase complex,PPM1K
+Lysine metabolism,DHTKD1
+Glycine metabolism,ETFA
+Glutamate metabolism,GPT2
+Proline metabolism,PYCR2
+Glyoxylate metabolism,HOGA1
+GABA metabolism,GLUD1
+Urea cycle,SLC25A13
+Nucleotide metabolism,CKMT1B
+Nucleotide import,SLC25A36
+Nucleotide synthesis and processing,DHODH
+Metals and cofactors,AIFM3
+Carnitine synthesis and transport,TMLHE
+Coenzyme Q metabolism,COQ5
+Copper metabolism,SCO2
+Heme synthesis and processing,COX10
+Fe-S cluster biosynthesis,FDX1
+NAD biosynthesis and metabolism,NMNAT3
+Fe-S-containing proteins,CISD1
+Heme-containing proteins,CYP11B2
+Vitamin metabolism,ALDH7A1
+Choline and betaine metabolism,ETFDH
+Folate and 1-C metabolism,DMGDH
+Detoxification,AKR7A2
+Xenobiotic metabolism,ALDH1B1
+ROS and glutathione metabolism,GLRX2
+Electron carriers,ETFA
+"Q-linked reactions, other",ETFDH
+Sulfur metabolism,SLC25A14
+Small molecule transport,ABCD1
+SLC25A family,SLC25A12
+ABC transporters,ABCD1
+Calcium uniporter,SMDT1
+Signaling,C1QBP
+Calcium homeostasis,MICU2
+Calcium cycle,MICU3
+Mitochondrial permeability transition pore,VDAC1
+EF hand proteins,RHOT2
+cAMP-PKA signaling,SPHKAP
+Mitochondrial dynamics and surveillance,APOOL
+Fusion,MTCH2
+Fission,MIEF2
+Organelle contact sites,MFN1
+Intramitochondrial membrane interactions,MTX2
+Trafficking,RHOT1
+Mitophagy,NIPSNAP2
+Autophagy,NIPSNAP1
+Apoptosis,BAX
+Cristae formation,CHCHD3
+MICOS complex,MICOS10
+Mitochondrial central dogma,AURKAIP1
+mtDNA maintenance,LIG3
+mtDNA replication,POLRMT
+mtDNA nucleoid,POLG2
+mtDNA repair,PRIMPOL
+mtRNA metabolism,ELAC2
+Transcription,TFB2M
+mtRNA granules,FASTKD2
+Polycistronic mtRNA processing,GRSF1
+mt-tRNA modifications,NSUN2
+mt-rRNA modifications,MTPAP
+mtRNA stability and decay,GRSF1
+Translation,COX14
+Mitochondrial ribosome,MRPL11
+Mitochondrial ribosome assembly,MALSU1
+Translation factors,MRPL58
+mt-tRNA synthetases,GATB
+"Protein import, sorting and homeostasis",CASP3
+Protein import and sorting,GFER
+TOM,TOMM6
+Preprotein cleavage,UQCRC2
+Protein homeostasis,CASP9
+Proteases,CLPB
+Chaperones,NRDC
+OXPHOS,ATP5F1E
+OXPHOS subunits,ATP5MC1
+OXPHOS assembly factors,CEP89
+Complex I,FOXRED1
+CI subunits,MT-ND6
+CI assembly factors,FOXRED1
+Complex II,SDHC
+Complex III,UQCC2
+CIII subunits,UQCRC2
+Complex IV,COA5
+CIV subunits,COX6B1
+CIV assembly factors,COA5
+Complex V,ATP5MC1
+CV subunits,ATP5MC1
+Metabolism,ABHD10
+Carbohydrate metabolism,AUH
+Gluconeogenesis,SLC25A1
+Pyruvate metabolism,PDHA2
+TCA cycle,IDH3A
+TCA-associated,ME3
+Ketone metabolism,OXCT1
+Lipid metabolism,ACADL
+Fatty acid oxidation,ACADS
+Type II fatty acid synthesis,MECR
+Cardiolipin synthesis,PGS1
+"Cholesterol, bile acid, steroid synthesis",FDXR
+Phospholipid metabolism,GPAT2
+Amino acid metabolism,ACAT1
+Branched-chain amino acid metabolism,BCKDHA
+Lysine metabolism,DLD
+Glycine metabolism,ETFB
+Glutamate metabolism,NAT8L
+Glyoxylate metabolism,LDHB
+GABA metabolism,GLUD2
+Urea cycle,SLC25A15
+Nucleotide metabolism,CKMT2
+Nucleotide import,SLC25A4
+Nucleotide synthesis and processing,DTYMK
+Metals and cofactors,ALAS1
+Coenzyme Q metabolism,COQ6
+Copper metabolism,SLC25A3
+Heme synthesis and processing,COX15
+Fe-S cluster biosynthesis,FDX2
+NAD biosynthesis and metabolism,NNT
+Fe-S-containing proteins,CISD3
+Heme-containing proteins,CYP24A1
+Vitamin metabolism,AMT
+Choline and betaine metabolism,SARDH
+Folate and 1-C metabolism,FPGS
+Detoxification,ALDH1B1
+Xenobiotic metabolism,ALDH2
+ROS and glutathione metabolism,GPX1
+Electron carriers,ETFB
+"Q-linked reactions, other",ETFRF1
+Sulfur metabolism,SLC25A30
+Small molecule transport,ABCD2
+SLC25A family,SLC25A13
+ABC transporters,ABCD2
+Signaling,CSKMT
+Calcium homeostasis,MICU3
+Calcium cycle,SLC25A3
+Mitochondrial permeability transition pore,VDAC3
+EF hand proteins,SLC25A12
+Mitochondrial dynamics and surveillance,ARL2
+Fusion,OMA1
+Fission,MTFP1
+Organelle contact sites,MFN2
+Intramitochondrial membrane interactions,MTX3
+Trafficking,RHOT2
+Mitophagy,PARK7
+Autophagy,NIPSNAP2
+Apoptosis,BBC3
+Cristae formation,CHCHD6
+MICOS complex,MICOS13
+Mitochondrial central dogma,C12orf65
+mtDNA maintenance,METTL4
+mtDNA replication,RNASEH1
+mtDNA nucleoid,POLRMT
+mtDNA repair,RECQL4
+mtRNA metabolism,ENDOG
+Transcription,TOP1MT
+mtRNA granules,FASTKD5
+Polycistronic mtRNA processing,HSD17B10
+mt-tRNA modifications,NSUN3
+mt-rRNA modifications,MYG1
+mtRNA stability and decay,LACTB2
+Translation,DAP3
+Mitochondrial ribosome,MRPL12
+Mitochondrial ribosome assembly,METTL17
+Translation factors,MRRF
+mt-tRNA synthetases,GATC
+"Protein import, sorting and homeostasis",CASP8
+Protein import and sorting,GRPEL1
+TOM,TOMM7
+Preprotein cleavage,XPNPEP3
+Protein homeostasis,CLPB
+Proteases,CLPP
+Chaperones,PHB
+OXPHOS,ATP5IF1
+OXPHOS subunits,ATP5MC2
+OXPHOS assembly factors,CMC1
+Complex I,LYRM2
+CI subunits,NDUFA1
+CI assembly factors,LYRM2
+Complex II,SDHD
+Complex III,UQCC3
+CIII subunits,UQCRFS1
+Complex IV,COA6
+CIV subunits,COX6B2
+CIV assembly factors,COA6
+Complex V,ATP5MC2
+CV subunits,ATP5MC2
+Metabolism,ABHD11
+Carbohydrate metabolism,BDH1
+Gluconeogenesis,SLC25A10
+Pyruvate metabolism,PDHB
+TCA cycle,IDH3B
+TCA-associated,MPC1
+Ketone metabolism,OXCT2
+Lipid metabolism,ACADM
+Fatty acid oxidation,ACADSB
+Type II fatty acid synthesis,NDUFAB1
+Cardiolipin synthesis,PLD6
+"Cholesterol, bile acid, steroid synthesis",HINT2
+Phospholipid metabolism,LACTB
+Amino acid metabolism,ADHFE1
+Branched-chain amino acid metabolism,BCKDHB
+Lysine metabolism,DLST
+Glycine metabolism,ETFDH
+Glutamate metabolism,SLC25A12
+Glyoxylate metabolism,PRODH2
+Nucleotide metabolism,CMPK2
+Nucleotide import,SLC25A41
+Nucleotide synthesis and processing,DUT
+Metals and cofactors,ALAS2
+Coenzyme Q metabolism,COQ7
+Heme synthesis and processing,CPOX
+Fe-S cluster biosynthesis,FDXR
+NAD biosynthesis and metabolism,NOCT
+Fe-S-containing proteins,DNA2
+Heme-containing proteins,CYP27A1
+Vitamin metabolism,BCO2
+Folate and 1-C metabolism,GTPBP3
+Detoxification,ALDH2
+Xenobiotic metabolism,BPHL
+ROS and glutathione metabolism,GPX4
+Electron carriers,ETFBKMT
+"Q-linked reactions, other",GPD2
+Sulfur metabolism,SQOR
+Small molecule transport,ABCD3
+SLC25A family,SLC25A14
+ABC transporters,ABCD3
+Signaling,DELE1
+Calcium homeostasis,PPIF
+Calcium cycle,SLC8B1
+EF hand proteins,SLC25A13
+Mitochondrial dynamics and surveillance,ARMC10
+Fusion,OPA1
+Fission,MTFR1
+Organelle contact sites,MIGA2
+Intramitochondrial membrane interactions,SAMM50
+Mitophagy,PARL
+Autophagy,PARK7
+Apoptosis,BCL2
+Cristae formation,IMMT
+Mitochondrial central dogma,CARS2
+mtDNA maintenance,MGME1
+mtDNA replication,SSBP1
+mtDNA nucleoid,SSBP1
+mtDNA repair,UNG
+mtRNA metabolism,ERAL1
+mtRNA granules,GRSF1
+Polycistronic mtRNA processing,PRORP
+mt-tRNA modifications,OSGEPL1
+mt-rRNA modifications,NGRN
+mtRNA stability and decay,LRPPRC
+Translation,DARS2
+Mitochondrial ribosome,MRPL13
+Mitochondrial ribosome assembly,MIEF1
+Translation factors,MTIF2
+mt-tRNA synthetases,HARS2
+"Protein import, sorting and homeostasis",CASP9
+Protein import and sorting,GRPEL2
+TOM,TOMM70
+Protein homeostasis,CLPP
+Proteases,CLPX
+Chaperones,PHB2
+OXPHOS,ATP5MC1
+OXPHOS subunits,ATP5MC3
+OXPHOS assembly factors,CMC2
+Complex I,MT-ND1
+CI subunits,NDUFA10
+CI assembly factors,NDUFAF1
+Complex III,UQCR10
+CIII subunits,UQCRH
+Complex IV,COA7
+CIV subunits,COX6C
+CIV assembly factors,COA7
+Complex V,ATP5MC3
+CV subunits,ATP5MC3
+Metabolism,ACAA1
+Carbohydrate metabolism,CLYBL
+Gluconeogenesis,SLC25A11
+Pyruvate metabolism,PDHX
+TCA cycle,IDH3G
+TCA-associated,MPC1L
+Lipid metabolism,ACADS
+Fatty acid oxidation,ACADVL
+Type II fatty acid synthesis,OXSM
+Cardiolipin synthesis,PLSCR3
+"Cholesterol, bile acid, steroid synthesis",HSD17B10
+Phospholipid metabolism,OSBPL1A
+Amino acid metabolism,AGMAT
+Branched-chain amino acid metabolism,BCKDK
+Lysine metabolism,ECHS1
+Glycine metabolism,GCAT
+Nucleotide metabolism,DGUOK
+Nucleotide import,SLC25A5
+Nucleotide synthesis and processing,FHIT
+Metals and cofactors,BOLA1
+Coenzyme Q metabolism,COQ8A
+Heme synthesis and processing,FABP1
+Fe-S cluster biosynthesis,FXN
+NAD biosynthesis and metabolism,NUDT13
+Fe-S-containing proteins,ETFDH
+Heme-containing proteins,CYP27B1
+Vitamin metabolism,CHDH
+Folate and 1-C metabolism,MTFMT
+Detoxification,ALDH3A2
+Xenobiotic metabolism,CBR3
+ROS and glutathione metabolism,GSR
+Electron carriers,ETFDH
+"Q-linked reactions, other",PRODH
+Sulfur metabolism,SUOX
+Small molecule transport,CCDC51
+SLC25A family,SLC25A15
+Signaling,EFHD1
+Calcium homeostasis,RHOT1
+Calcium cycle,SMDT1
+EF hand proteins,SLC25A23
+Mitochondrial dynamics and surveillance,ARMCX1
+Fusion,PLD6
+Fission,MTFR2
+Organelle contact sites,PIGBOS1
+Intramitochondrial membrane interactions,SLC25A46
+Mitophagy,PGAM5
+Autophagy,PARL
+Apoptosis,BCL2A1
+Cristae formation,MICOS10
+Mitochondrial central dogma,CDK5RAP1
+mtDNA maintenance,MTERF1
+mtDNA replication,TFAM
+mtDNA nucleoid,TFAM
+mtRNA metabolism,FASTK
+mtRNA granules,HSD17B10
+Polycistronic mtRNA processing,PTCD2
+mt-tRNA modifications,PUS1
+mt-rRNA modifications,NSUN4
+mtRNA stability and decay,MTPAP
+Translation,DDX28
+Mitochondrial ribosome,MRPL14
+Mitochondrial ribosome assembly,MPV17L2
+Translation factors,MTIF3
+mt-tRNA synthetases,IARS2
+"Protein import, sorting and homeostasis",CHCHD4
+Protein import and sorting,IMMP1L
+Protein homeostasis,CLPX
+Proteases,HTRA2
+Chaperones,TIMM10
+OXPHOS,ATP5MC2
+OXPHOS subunits,ATP5MD
+OXPHOS assembly factors,COA1
+Complex I,MT-ND2
+CI subunits,NDUFA11
+CI assembly factors,NDUFAF2
+Complex III,UQCR11
+CIII subunits,UQCRQ
+Complex IV,COA8
+CIV subunits,COX7A1
+CIV assembly factors,COA8
+Complex V,ATP5MD
+CV subunits,ATP5MD
+Metabolism,ACAA2
+Carbohydrate metabolism,CS
+Pyruvate metabolism,PDK1
+TCA cycle,MDH2
+TCA-associated,MPC2
+Lipid metabolism,ACADSB
+Fatty acid oxidation,ACAT1
+Cardiolipin synthesis,PNPLA8
+"Cholesterol, bile acid, steroid synthesis",HSD17B8
+Phospholipid metabolism,PGS1
+Amino acid metabolism,AGXT
+Branched-chain amino acid metabolism,DBT
+Lysine metabolism,ETFA
+Glycine metabolism,GCSH
+Nucleotide metabolism,DHODH
+Nucleotide import,SLC25A6
+Nucleotide synthesis and processing,GUK1
+Metals and cofactors,BOLA3
+Coenzyme Q metabolism,COQ8B
+Heme synthesis and processing,FDX1
+Fe-S cluster biosynthesis,GLRX5
+NAD biosynthesis and metabolism,SIRT3
+Fe-S-containing proteins,FDX1
+Heme-containing proteins,MT-CO1
+Vitamin metabolism,CYP24A1
+Folate and 1-C metabolism,MTHFD1L
+Detoxification,ALDH7A1
+Xenobiotic metabolism,CYB5B
+ROS and glutathione metabolism,HAGH
+Electron carriers,ETFRF1
+"Q-linked reactions, other",PRODH2
+Sulfur metabolism,TST
+Small molecule transport,LETMD1
+SLC25A family,SLC25A16
+Signaling,FUNDC2
+Calcium homeostasis,RHOT2
+EF hand proteins,SLC25A24
+Mitochondrial dynamics and surveillance,ARMCX3
+Fission,MUL1
+Organelle contact sites,RMDN3
+Mitophagy,PINK1
+Autophagy,PGAM5
+Apoptosis,BCL2L1
+Cristae formation,MICOS13
+Mitochondrial central dogma,CHCHD1
+mtDNA maintenance,MTERF2
+mtDNA replication,TFB2M
+mtDNA nucleoid,TWNK
+mtRNA metabolism,FASTKD1
+mtRNA granules,MRM1
+Polycistronic mtRNA processing,TBRG4
+mt-tRNA modifications,QTRT1
+mt-rRNA modifications,RCC1L
+mtRNA stability and decay,PDE12
+Translation,DHX30
+Mitochondrial ribosome,MRPL15
+Mitochondrial ribosome assembly,MRM2
+Translation factors,MTRF1
+mt-tRNA synthetases,KARS1
+"Protein import, sorting and homeostasis",CLPB
+Protein import and sorting,IMMP2L
+Protein homeostasis,DNAJA3
+Proteases,IDE
+Chaperones,TIMM10B
+OXPHOS,ATP5MC3
+OXPHOS subunits,ATP5ME
+OXPHOS assembly factors,COA3
+Complex I,MT-ND3
+CI subunits,NDUFA12
+CI assembly factors,NDUFAF3
+Complex III,UQCRB
+Complex IV,COX10
+CIV subunits,COX7A2
+CIV assembly factors,COX10
+Complex V,ATP5ME
+CV subunits,ATP5ME
+Metabolism,ACACA
+Carbohydrate metabolism,D2HGDH
+Pyruvate metabolism,PDK2
+TCA cycle,MRPS36
+TCA-associated,PC
+Lipid metabolism,ACADVL
+Fatty acid oxidation,ACOT11
+Cardiolipin synthesis,PRELID1
+"Cholesterol, bile acid, steroid synthesis",OSBPL1A
+Phospholipid metabolism,PISD
+Amino acid metabolism,AGXT2
+Branched-chain amino acid metabolism,DLD
+Lysine metabolism,ETFB
+Glycine metabolism,GLDC
+Nucleotide metabolism,DTYMK
+Nucleotide synthesis and processing,HINT1
+Metals and cofactors,CHCHD7
+Coenzyme Q metabolism,COQ9
+Heme synthesis and processing,FDX2
+Fe-S cluster biosynthesis,GRPEL1
+NAD biosynthesis and metabolism,SIRT4
+Fe-S-containing proteins,FDX2
+Heme-containing proteins,MT-CYB
+Vitamin metabolism,CYP27B1
+Folate and 1-C metabolism,MTHFD2
+Detoxification,ALDH9A1
+Xenobiotic metabolism,CYB5R3
+ROS and glutathione metabolism,MGST1
+Electron carriers,GPD2
+"Q-linked reactions, other",SQOR
+Sulfur metabolism,TSTD1
+Small molecule transport,MCU
+SLC25A family,SLC25A18
+Signaling,IFI27
+Calcium homeostasis,SLC25A12
+EF hand proteins,SLC25A25
+Mitochondrial dynamics and surveillance,ATAD3A
+Fission,OMA1
+Organelle contact sites,SPIRE1
+Mitophagy,PRKN
+Autophagy,PINK1
+Apoptosis,BCL2L10
+Cristae formation,OPA1
+Mitochondrial central dogma,COA3
+mtDNA maintenance,MUTYH
+mtDNA replication,TOP1MT
+mtRNA metabolism,FASTKD2
+mtRNA granules,MRM2
+Polycistronic mtRNA processing,TRMT10C
+mt-tRNA modifications,RPUSD4
+mt-rRNA modifications,RPUSD3
+mtRNA stability and decay,PNPT1
+Translation,EARS2
+Mitochondrial ribosome,MRPL16
+Mitochondrial ribosome assembly,MRM3
+Translation factors,MTRF1L
+mt-tRNA synthetases,LARS2
+"Protein import, sorting and homeostasis",CLPP
+Protein import and sorting,MIPEP
+Protein homeostasis,DNAJC4
+Proteases,IMMP1L
+Chaperones,TIMM13
+OXPHOS,ATP5MD
+OXPHOS subunits,ATP5MF
+OXPHOS assembly factors,COA4
+Complex I,MT-ND4
+CI subunits,NDUFA13
+CI assembly factors,NDUFAF4
+Complex III,UQCRC1
+Complex IV,COX11
+CIV subunits,COX7A2L
+CIV assembly factors,COX11
+Complex V,ATP5MF
+CV subunits,ATP5MF
+Metabolism,ACACB
+Carbohydrate metabolism,DCXR
+Pyruvate metabolism,PDK3
+TCA cycle,OGDH
+TCA-associated,PCK2
+Lipid metabolism,ACAT1
+Fatty acid oxidation,ACSF2
+Cardiolipin synthesis,PRELID3A
+"Cholesterol, bile acid, steroid synthesis",SCP2
+Phospholipid metabolism,PNPLA8
+Amino acid metabolism,AKR7A2
+Branched-chain amino acid metabolism,ECHS1
+Lysine metabolism,ETFDH
+Glycine metabolism,GLYAT
+Nucleotide metabolism,DUT
+Nucleotide synthesis and processing,NME3
+Metals and cofactors,CISD1
+Coenzyme Q metabolism,PDSS1
+Heme synthesis and processing,FDXR
+Fe-S cluster biosynthesis,GRPEL2
+NAD biosynthesis and metabolism,SIRT5
+Fe-S-containing proteins,FECH
+Heme-containing proteins,SDHC
+Vitamin metabolism,DHRS4
+Folate and 1-C metabolism,MTHFD2L
+Detoxification,BPHL
+Xenobiotic metabolism,DHRS2
+ROS and glutathione metabolism,MSRA
+Electron carriers,MT-CYB
+Small molecule transport,MCUB
+SLC25A family,SLC25A19
+Signaling,LETM1
+Calcium homeostasis,SLC25A13
+Mitochondrial dynamics and surveillance,ATAD3B
+Fission,RAB24
+Organelle contact sites,STX17
+Mitophagy,TOMM7
+Autophagy,PRKN
+Apoptosis,BCL2L11
+Mitochondrial central dogma,COX14
+mtDNA maintenance,OGG1
+mtDNA replication,TOP3A
+mtRNA metabolism,FASTKD3
+mtRNA granules,MRPL47
+Polycistronic mtRNA processing,YBEY
+mt-tRNA modifications,THG1L
+mt-rRNA modifications,RPUSD4
+mtRNA stability and decay,REXO2
+Translation,ERAL1
+Mitochondrial ribosome,MRPL17
+Mitochondrial ribosome assembly,MTERF3
+Translation factors,TACO1
+mt-tRNA synthetases,MARS2
+"Protein import, sorting and homeostasis",CLPX
+Protein import and sorting,MTX1
+Protein homeostasis,DNLZ
+Proteases,IMMP2L
+Chaperones,TIMM8A
+OXPHOS,ATP5ME
+OXPHOS subunits,ATP5MG
+OXPHOS assembly factors,COA5
+Complex I,MT-ND4L
+CI subunits,NDUFA2
+CI assembly factors,NDUFAF5
+Complex III,UQCRC2
+Complex IV,COX14
+CIV subunits,COX7B
+CIV assembly factors,COX14
+Complex V,ATP5MG
+CV subunits,ATP5MG
+Metabolism,ACAD10
+Carbohydrate metabolism,DLAT
+Pyruvate metabolism,PDK4
+TCA cycle,OGDHL
+TCA-associated,SFXN5
+Lipid metabolism,ACOT11
+Fatty acid oxidation,ACSL1
+Cardiolipin synthesis,PTPMT1
+"Cholesterol, bile acid, steroid synthesis",STAR
+Phospholipid metabolism,PRDX6
+Amino acid metabolism,ALDH18A1
+Branched-chain amino acid metabolism,ETFA
+Lysine metabolism,GCDH
+Glycine metabolism,SARDH
+Nucleotide metabolism,FHIT
+Nucleotide synthesis and processing,NME4
+Metals and cofactors,CISD3
+Coenzyme Q metabolism,PDSS2
+Heme synthesis and processing,FECH
+Fe-S cluster biosynthesis,HSCB
+NAD biosynthesis and metabolism,SLC25A51
+Fe-S-containing proteins,GLRX2
+Heme-containing proteins,SDHD
+Vitamin metabolism,DMGDH
+Folate and 1-C metabolism,MTHFS
+Detoxification,CAT
+Xenobiotic metabolism,EPHX2
+ROS and glutathione metabolism,MSRB2
+Electron carriers,PRODH
+Small molecule transport,MICU1
+SLC25A family,SLC25A20
+Signaling,LYPLA1
+Calcium homeostasis,SLC25A23
+Mitochondrial dynamics and surveillance,ATP5MD
+Fission,SLC25A46
+Organelle contact sites,SYNJ2BP
+Mitophagy,USP30
+Autophagy,RAB24
+Apoptosis,BCL2L13
+Mitochondrial central dogma,DAP3
+mtDNA maintenance,PIF1
+mtDNA replication,TWNK
+mtRNA metabolism,FASTKD5
+mtRNA granules,MRPS7
+mt-tRNA modifications,TRIT1
+mt-rRNA modifications,TFB1M
+mtRNA stability and decay,RNASEH1
+Translation,EXD2
+Mitochondrial ribosome,MRPL18
+Mitochondrial ribosome assembly,MTERF4
+Translation factors,TIMM21
+mt-tRNA synthetases,NARS2
+"Protein import, sorting and homeostasis",DNAJA3
+Protein import and sorting,MTX2
+Protein homeostasis,FKBP10
+Proteases,LACTB
+Chaperones,TIMM8B
+OXPHOS,ATP5MF
+OXPHOS subunits,ATP5MPL
+OXPHOS assembly factors,COA6
+Complex I,MT-ND5
+CI subunits,NDUFA3
+CI assembly factors,NDUFAF6
+Complex III,UQCRFS1
+Complex IV,COX15
+CIV subunits,COX7B2
+CIV assembly factors,COX15
+Complex V,ATP5MPL
+CV subunits,ATP5MPL
+Metabolism,ACAD11
+Carbohydrate metabolism,DLD
+Pyruvate metabolism,PDP1
+TCA cycle,SDHA
+TCA-associated,SLC25A1
+Lipid metabolism,ACOT13
+Fatty acid oxidation,ACSL6
+Cardiolipin synthesis,TAMM41
+"Cholesterol, bile acid, steroid synthesis",TSPO
+Phospholipid metabolism,PRELID1
+Amino acid metabolism,ALDH4A1
+Branched-chain amino acid metabolism,ETFB
+Lysine metabolism,HADH
+Glycine metabolism,SHMT2
+Nucleotide metabolism,GATM
+Nucleotide synthesis and processing,NME6
+Metals and cofactors,COASY
+Heme synthesis and processing,HCCS
+Fe-S cluster biosynthesis,HSPA9
+NAD biosynthesis and metabolism,SLC25A52
+Fe-S-containing proteins,GLRX5
+Vitamin metabolism,ETFA
+Folate and 1-C metabolism,MTO1
+Detoxification,CBR3
+Xenobiotic metabolism,GLYAT
+ROS and glutathione metabolism,MSRB3
+Electron carriers,PRODH2
+Small molecule transport,MICU2
+SLC25A family,SLC25A21
+Signaling,MACROD1
+Calcium homeostasis,SLC25A24
+Mitochondrial dynamics and surveillance,ATP5ME
+Fission,SPIRE1
+Organelle contact sites,VDAC1
+Mitophagy,VPS13D
+Autophagy,SNAP29
+Apoptosis,BCL2L2
+Mitochondrial central dogma,DARS2
+mtDNA maintenance,POLB
+mtRNA metabolism,GRSF1
+mtRNA granules,MRPS9
+mt-tRNA modifications,TRMT1
+mt-rRNA modifications,TRIT1
+mtRNA stability and decay,SLIRP
+Translation,FARS2
+Mitochondrial ribosome,MRPL19
+Mitochondrial ribosome assembly,MTG1
+Translation factors,TSFM
+mt-tRNA synthetases,PARS2
+"Protein import, sorting and homeostasis",DNAJC11
+Protein import and sorting,NRDC
+Protein homeostasis,HSPD1
+Proteases,LAP3
+Chaperones,TIMM9
+OXPHOS,ATP5MG
+OXPHOS subunits,ATP5PB
+OXPHOS assembly factors,COA7
+Complex I,MT-ND6
+CI subunits,NDUFA5
+CI assembly factors,NDUFAF7
+Complex III,UQCRH
+Complex IV,COX16
+CIV subunits,COX7C
+CIV assembly factors,COX16
+Complex V,ATP5PB
+CV subunits,ATP5PB
+Metabolism,ACAD8
+Carbohydrate metabolism,DLST
+Pyruvate metabolism,PDP2
+TCA cycle,SDHB
+TCA-associated,SLC25A11
+Lipid metabolism,ACOT2
+Fatty acid oxidation,ACSM1
+Cardiolipin synthesis,TAZ
+Phospholipid metabolism,PRELID3A
+Amino acid metabolism,ALDH5A1
+Branched-chain amino acid metabolism,ETFDH
+Lysine metabolism,HADHB
+Glycine metabolism,SLC25A38
+Nucleotide metabolism,GUK1
+Nucleotide synthesis and processing,NT5DC2
+Metals and cofactors,COQ10A
+Heme synthesis and processing,PPOX
+Fe-S cluster biosynthesis,IBA57
+Fe-S-containing proteins,ISCA1
+Vitamin metabolism,ETFB
+Folate and 1-C metabolism,QDPR
+Detoxification,CYB5B
+Xenobiotic metabolism,GSTK1
+ROS and glutathione metabolism,NIT1
+Electron carriers,SQOR
+Small molecule transport,MICU3
+SLC25A family,SLC25A22
+Signaling,MAVS
+Calcium homeostasis,SLC25A25
+Mitochondrial dynamics and surveillance,ATP5MG
+Fission,STX17
+Autophagy,STX17
+Apoptosis,BID
+Mitochondrial central dogma,DDX28
+mtDNA maintenance,POLDIP2
+mtRNA metabolism,GTPBP3
+mtRNA granules,MTPAP
+mt-tRNA modifications,TRMT10C
+mt-rRNA modifications,TRMT2B
+mtRNA stability and decay,SUPV3L1
+Translation,FASTKD2
+Mitochondrial ribosome,MRPL2
+Mitochondrial ribosome assembly,MTG2
+Translation factors,TUFM
+mt-tRNA synthetases,QRSL1
+"Protein import, sorting and homeostasis",DNAJC15
+Protein import and sorting,OXA1L
+Protein homeostasis,HSPE1
+Proteases,LONP1
+Chaperones,TRAP1
+OXPHOS,ATP5MPL
+OXPHOS subunits,ATP5PD
+OXPHOS assembly factors,COA8
+Complex I,NDUFA1
+CI subunits,NDUFA6
+CI assembly factors,NDUFAF8
+Complex III,UQCRQ
+Complex IV,COX17
+CIV subunits,COX8A
+CIV assembly factors,COX17
+Complex V,ATP5PD
+CV subunits,ATP5PD
+Metabolism,ACADL
+Carbohydrate metabolism,FAHD1
+Pyruvate metabolism,PDPR
+TCA cycle,SDHC
+Lipid metabolism,ACOT7
+Fatty acid oxidation,ACSM2A
+Cardiolipin synthesis,TRIAP1
+Phospholipid metabolism,PRELID3B
+Amino acid metabolism,ALDH6A1
+Branched-chain amino acid metabolism,HADHA
+Lysine metabolism,SLC25A29
+Nucleotide metabolism,HINT1
+Nucleotide synthesis and processing,NT5M
+Metals and cofactors,COQ10B
+Heme synthesis and processing,SLC25A38
+Fe-S cluster biosynthesis,ISCA1
+Fe-S-containing proteins,ISCA2
+Vitamin metabolism,ETFDH
+Folate and 1-C metabolism,SARDH
+Detoxification,CYB5R3
+Xenobiotic metabolism,GSTZ1
+ROS and glutathione metabolism,OXR1
+Small molecule transport,MPC1
+SLC25A family,SLC25A23
+Signaling,MCRIP2
+Calcium homeostasis,SLC25A3
+Mitochondrial dynamics and surveillance,BAD
+Autophagy,TOMM7
+Apoptosis,BIK
+Mitochondrial central dogma,DHX30
+mtDNA maintenance,POLG
+mtRNA metabolism,HSD17B10
+mtRNA granules,NOA1
+mt-tRNA modifications,TRMT2B
+mt-rRNA modifications,TRMT61B
+mtRNA stability and decay,TBRG4
+Translation,GADD45GIP1
+Mitochondrial ribosome,MRPL20
+Mitochondrial ribosome assembly,NGRN
+mt-tRNA synthetases,RARS2
+"Protein import, sorting and homeostasis",DNAJC19
+Protein import and sorting,PAM16
+Protein homeostasis,HTRA2
+Proteases,METAP1D
+OXPHOS,ATP5PB
+OXPHOS subunits,ATP5PF
+OXPHOS assembly factors,COX10
+Complex I,NDUFA10
+CI subunits,NDUFA7
+CI assembly factors,NUBPL
+Complex IV,COX18
+CIV subunits,COX8C
+CIV assembly factors,COX18
+Complex V,ATP5PF
+CV subunits,ATP5PF
+Metabolism,ACADM
+Carbohydrate metabolism,FH
+TCA cycle,SDHD
+Lipid metabolism,ACOT9
+Fatty acid oxidation,ACSM2B
+Phospholipid metabolism,PTPMT1
+Amino acid metabolism,ALDH7A1
+Branched-chain amino acid metabolism,HIBADH
+Nucleotide metabolism,NME3
+Nucleotide synthesis and processing,NUDT2
+Metals and cofactors,COQ2
+Fe-S cluster biosynthesis,ISCA2
+Fe-S-containing proteins,ISCU
+Vitamin metabolism,FDX1
+Folate and 1-C metabolism,SFXN1
+Detoxification,DHRS2
+Xenobiotic metabolism,MAOA
+ROS and glutathione metabolism,PRDX2
+Small molecule transport,MPC1L
+SLC25A family,SLC25A24
+Signaling,MCU
+Calcium homeostasis,SLC25A31
+Mitochondrial dynamics and surveillance,BAK1
+Autophagy,USP30
+Apoptosis,BNIP3
+Mitochondrial central dogma,DNA2
+mtDNA maintenance,POLG2
+mtRNA metabolism,LACTB2
+mtRNA granules,PRORP
+mt-tRNA modifications,TRMT5
+mt-rRNA modifications,TRUB2
+Translation,GARS1
+Mitochondrial ribosome,MRPL21
+Mitochondrial ribosome assembly,NOA1
+mt-tRNA synthetases,SARS2
+"Protein import, sorting and homeostasis",DNAJC4
+Protein import and sorting,PMPCA
+Protein homeostasis,IDE
+Proteases,MIPEP
+OXPHOS,ATP5PD
+OXPHOS subunits,ATP5PO
+OXPHOS assembly factors,COX11
+Complex I,NDUFA11
+CI subunits,NDUFA8
+CI assembly factors,TIMMDC1
+Complex IV,COX19
+CIV subunits,MT-CO1
+CIV assembly factors,COX19
+Complex V,ATP5PO
+CV subunits,ATP5PO
+Metabolism,ACADS
+Carbohydrate metabolism,GLYCTK
+TCA cycle,SUCLA2
+Lipid metabolism,ACP6
+Fatty acid oxidation,ACSM3
+Phospholipid metabolism,SERAC1
+Amino acid metabolism,ALDH9A1
+Branched-chain amino acid metabolism,HIBCH
+Nucleotide metabolism,NME4
+Nucleotide synthesis and processing,NUDT5
+Metals and cofactors,COQ3
+Fe-S cluster biosynthesis,ISCU
+Fe-S-containing proteins,LIAS
+Vitamin metabolism,FDXR
+Folate and 1-C metabolism,SFXN3
+Detoxification,EPHX2
+Xenobiotic metabolism,MAOB
+ROS and glutathione metabolism,PRDX3
+Small molecule transport,MPC2
+SLC25A family,SLC25A25
+Signaling,MCUB
+Calcium homeostasis,SLC25A4
+Mitochondrial dynamics and surveillance,BAX
+Autophagy,VPS13D
+Apoptosis,BNIP3L
+Mitochondrial central dogma,DUS2
+mtDNA maintenance,POLQ
+mtRNA metabolism,LRPPRC
+mtRNA granules,PTCD1
+mt-tRNA modifications,TRMT61B
+Translation,GATB
+Mitochondrial ribosome,MRPL22
+Mitochondrial ribosome assembly,NSUN4
+mt-tRNA synthetases,TARS2
+"Protein import, sorting and homeostasis",DNLZ
+Protein import and sorting,PMPCB
+Protein homeostasis,IMMP1L
+Proteases,NLN
+OXPHOS,ATP5PF
+OXPHOS subunits,COX4I1
+OXPHOS assembly factors,COX14
+Complex I,NDUFA12
+CI subunits,NDUFA9
+CI assembly factors,TMEM126A
+Complex IV,COX20
+CIV subunits,MT-CO2
+CIV assembly factors,COX20
+Complex V,ATPAF1
+CV subunits,DMAC2L
+Metabolism,ACADSB
+Carbohydrate metabolism,GOT2
+TCA cycle,SUCLG1
+Lipid metabolism,ACSF2
+Fatty acid oxidation,ACSM4
+Phospholipid metabolism,SPHK2
+Amino acid metabolism,AMT
+Branched-chain amino acid metabolism,HMGCL
+Nucleotide metabolism,NME6
+Nucleotide synthesis and processing,NUDT9
+Metals and cofactors,COQ4
+Fe-S cluster biosynthesis,LYRM4
+Fe-S-containing proteins,NDUFS1
+Vitamin metabolism,FLAD1
+Folate and 1-C metabolism,SHMT2
+Detoxification,GLRX2
+Xenobiotic metabolism,MGST1
+ROS and glutathione metabolism,PRDX4
+Small molecule transport,MPV17
+SLC25A family,SLC25A26
+Signaling,MICU1
+Calcium homeostasis,SLC25A5
+Mitochondrial dynamics and surveillance,BBC3
+Apoptosis,BOK
+Mitochondrial central dogma,EARS2
+mtDNA maintenance,POLRMT
+mtRNA metabolism,METTL15
+mtRNA granules,PTCD2
+mt-tRNA modifications,TRMU
+Translation,GATC
+Mitochondrial ribosome,MRPL23
+Mitochondrial ribosome assembly,PTCD3
+mt-tRNA synthetases,VARS2
+"Protein import, sorting and homeostasis",FKBP10
+Protein import and sorting,ROMO1
+Protein homeostasis,IMMP2L
+Proteases,OMA1
+OXPHOS,ATP5PO
+OXPHOS subunits,COX4I2
+OXPHOS assembly factors,COX15
+Complex I,NDUFA13
+CI subunits,NDUFAB1
+CI assembly factors,TMEM126B
+Complex IV,COX4I1
+CIV subunits,MT-CO3
+CIV assembly factors,HIGD1A
+Complex V,ATPAF2
+CV subunits,MT-ATP6
+Metabolism,ACADVL
+Carbohydrate metabolism,GPD2
+TCA cycle,SUCLG2
+Lipid metabolism,ACSF3
+Fatty acid oxidation,ACSM5
+Phospholipid metabolism,SPTLC2
+Amino acid metabolism,ARG2
+Branched-chain amino acid metabolism,HSD17B10
+Nucleotide metabolism,NT5DC2
+Nucleotide synthesis and processing,PAICS
+Metals and cofactors,COQ5
+Fe-S cluster biosynthesis,NDUFAB1
+Fe-S-containing proteins,NDUFS2
+Vitamin metabolism,FPGS
+Folate and 1-C metabolism,SLC25A32
+Detoxification,GLYAT
+Xenobiotic metabolism,MPST
+ROS and glutathione metabolism,PRDX5
+Small molecule transport,MPV17L
+SLC25A family,SLC25A27
+Signaling,MICU2
+Calcium homeostasis,SLC25A6
+Mitochondrial dynamics and surveillance,BCL2
+Apoptosis,CASP3
+Mitochondrial central dogma,ELAC2
+mtDNA maintenance,PPA2
+mtRNA metabolism,METTL17
+mtRNA granules,PUS1
+mt-tRNA modifications,TRNT1
+Translation,GFM1
+Mitochondrial ribosome,MRPL24
+Mitochondrial ribosome assembly,RBFA
+mt-tRNA synthetases,WARS2
+"Protein import, sorting and homeostasis",GFER
+Protein import and sorting,SAMM50
+Protein homeostasis,LACTB
+Proteases,PARL
+OXPHOS,ATPAF1
+OXPHOS subunits,COX5A
+OXPHOS assembly factors,COX16
+Complex I,NDUFA2
+CI subunits,NDUFB1
+CI assembly factors,TMEM186
+Complex IV,COX4I2
+CIV subunits,NDUFA4
+CIV assembly factors,PET100
+Complex V,ATPSCKMT
+CV subunits,MT-ATP8
+Metabolism,ACAT1
+Carbohydrate metabolism,HADHB
+Lipid metabolism,ACSL1
+Fatty acid oxidation,ACSS1
+Phospholipid metabolism,STARD7
+Amino acid metabolism,AUH
+Branched-chain amino acid metabolism,IVD
+Nucleotide metabolism,NT5M
+Nucleotide synthesis and processing,SUCLA2
+Metals and cofactors,COQ6
+Fe-S cluster biosynthesis,NFS1
+Fe-S-containing proteins,NDUFS7
+Vitamin metabolism,GLRX2
+Folate and 1-C metabolism,SLC25A38
+Detoxification,GPX1
+Xenobiotic metabolism,MTARC1
+ROS and glutathione metabolism,PRDX6
+Small molecule transport,MRS2
+SLC25A family,SLC25A28
+Signaling,MICU3
+Calcium homeostasis,SLC8B1
+Mitochondrial dynamics and surveillance,BCL2A1
+Apoptosis,CASP8
+Mitochondrial central dogma,ENDOG
+mtDNA maintenance,PRIMPOL
+mtRNA metabolism,METTL5
+mtRNA granules,RMND1
+mt-tRNA modifications,YRDC
+Translation,GFM2
+Mitochondrial ribosome,MRPL27
+Mitochondrial ribosome assembly,TFB1M
+mt-tRNA synthetases,YARS2
+"Protein import, sorting and homeostasis",GRPEL1
+Protein import and sorting,TIMM10
+Protein homeostasis,LAP3
+Proteases,PITRM1
+OXPHOS,ATPAF2
+OXPHOS subunits,COX5B
+OXPHOS assembly factors,COX17
+Complex I,NDUFA3
+CI subunits,NDUFB10
+CI assembly factors,TMEM70
+Complex IV,COX5A
+CIV assembly factors,PET117
+Complex V,DMAC2L
+Metabolism,ACLY
+Carbohydrate metabolism,HMGCL
+Lipid metabolism,ACSL6
+Fatty acid oxidation,AMACR
+Phospholipid metabolism,TAMM41
+Amino acid metabolism,BCAT2
+Branched-chain amino acid metabolism,MCCC1
+Nucleotide metabolism,NUDT2
+Nucleotide synthesis and processing,SUCLG1
+Metals and cofactors,COQ7
+Fe-S cluster biosynthesis,NFU1
+Fe-S-containing proteins,NDUFS8
+Vitamin metabolism,GTPBP3
+Detoxification,GPX4
+Xenobiotic metabolism,MTARC2
+ROS and glutathione metabolism,PRXL2A
+Small molecule transport,MTCH1
+SLC25A family,SLC25A29
+Signaling,MRS2
+Calcium homeostasis,SMDT1
+Mitochondrial dynamics and surveillance,BCL2L1
+Apoptosis,CASP9
+Mitochondrial central dogma,ERAL1
+mtDNA maintenance,RECQL4
+mtRNA metabolism,METTL8
+mtRNA granules,RPUSD3
+Translation,GRSF1
+Mitochondrial ribosome,MRPL28
+Mitochondrial ribosome assembly,TRMT61B
+"Protein import, sorting and homeostasis",GRPEL2
+Protein import and sorting,TIMM10B
+Protein homeostasis,LONP1
+Proteases,PMPCA
+OXPHOS,ATPSCKMT
+OXPHOS subunits,COX6A1
+OXPHOS assembly factors,COX18
+Complex I,NDUFA5
+CI subunits,NDUFB11
+Complex IV,COX5B
+CIV assembly factors,PNKD
+Complex V,FMC1
+Metabolism,ACO2
+Carbohydrate metabolism,HMGCS2
+Lipid metabolism,ACSM1
+Fatty acid oxidation,CPT1A
+Phospholipid metabolism,TRIAP1
+Amino acid metabolism,BCKDHA
+Branched-chain amino acid metabolism,MCCC2
+Nucleotide metabolism,NUDT5
+Nucleotide synthesis and processing,SUCLG2
+Metals and cofactors,COQ8A
+Fe-S cluster biosynthesis,NUBPL
+Fe-S-containing proteins,NDUFV1
+Vitamin metabolism,MCCC1
+Detoxification,GSR
+Xenobiotic metabolism,TST
+ROS and glutathione metabolism,SOD1
+Small molecule transport,MTCH2
+SLC25A family,SLC25A3
+Signaling,MUL1
+Calcium homeostasis,VDAC1
+Mitochondrial dynamics and surveillance,BCL2L10
+Apoptosis,CHCHD2
+Mitochondrial central dogma,EXD2
+mtDNA maintenance,RNASEH1
+mtRNA metabolism,MRM1
+mtRNA granules,RPUSD4
+Translation,GTPBP10
+Mitochondrial ribosome,MRPL3
+Mitochondrial ribosome assembly,YBEY
+"Protein import, sorting and homeostasis",HSPD1
+Protein import and sorting,TIMM13
+Protein homeostasis,MAIP1
+Proteases,PMPCB
+OXPHOS,BCS1L
+OXPHOS subunits,COX6A2
+OXPHOS assembly factors,COX19
+Complex I,NDUFA6
+CI subunits,NDUFB2
+Complex IV,COX6A1
+CIV assembly factors,SCO1
+Complex V,MT-ATP6
+Metabolism,ACOD1
+Carbohydrate metabolism,IDH2
+Lipid metabolism,ACSM2A
+Fatty acid oxidation,CPT1B
+Amino acid metabolism,BCKDHB
+Branched-chain amino acid metabolism,PPM1K
+Nucleotide metabolism,NUDT9
+Nucleotide synthesis and processing,TK2
+Metals and cofactors,COQ8B
+Fe-S-containing proteins,NDUFV2
+Vitamin metabolism,MMAA
+Detoxification,GSTK1
+ROS and glutathione metabolism,SOD2
+Small molecule transport,ROMO1
+SLC25A family,SLC25A30
+Signaling,NLRX1
+Calcium homeostasis,VDAC3
+Mitochondrial dynamics and surveillance,BCL2L11
+Apoptosis,CYCS
+Mitochondrial central dogma,EXOG
+mtDNA maintenance,SSBP1
+mtRNA metabolism,MRM2
+mtRNA granules,SUPV3L1
+Translation,GUF1
+Mitochondrial ribosome,MRPL30
+"Protein import, sorting and homeostasis",HSPE1
+Protein import and sorting,TIMM17A
+Protein homeostasis,METAP1D
+Proteases,SPG7
+OXPHOS,CEP89
+OXPHOS subunits,COX6B1
+OXPHOS assembly factors,COX20
+Complex I,NDUFA7
+CI subunits,NDUFB3
+Complex IV,COX6A2
+CIV assembly factors,SCO2
+Complex V,MT-ATP8
+Metabolism,ACOT11
+Carbohydrate metabolism,IDH3A
+Lipid metabolism,ACSM2B
+Fatty acid oxidation,CPT1C
+Amino acid metabolism,BCKDK
+Branched-chain amino acid metabolism,SLC25A44
+Nucleotide metabolism,PAICS
+Metals and cofactors,COQ9
+Fe-S-containing proteins,NFS1
+Vitamin metabolism,MMAB
+Detoxification,GSTZ1
+ROS and glutathione metabolism,TXN2
+Small molecule transport,SFXN1
+SLC25A family,SLC25A31
+Signaling,OCIAD2
+Mitochondrial dynamics and surveillance,BCL2L13
+Apoptosis,DIABLO
+Mitochondrial central dogma,FARS2
+mtDNA maintenance,TFAM
+mtRNA metabolism,MRM3
+mtRNA granules,TFB1M
+Translation,HARS2
+Mitochondrial ribosome,MRPL32
+"Protein import, sorting and homeostasis",HTRA2
+Protein import and sorting,TIMM17B
+Protein homeostasis,MIPEP
+Proteases,USP30
+OXPHOS,CMC1
+OXPHOS subunits,COX6B2
+OXPHOS assembly factors,COX7A2L
+Complex I,NDUFA8
+CI subunits,NDUFB4
+Complex IV,COX6B1
+CIV assembly factors,SMIM20
+Complex V,TMEM70
+Metabolism,ACOT13
+Carbohydrate metabolism,IDH3B
+Lipid metabolism,ACSM3
+Fatty acid oxidation,CPT2
+Amino acid metabolism,CA5A
+Nucleotide metabolism,PPA2
+Metals and cofactors,COX10
+Fe-S-containing proteins,NFU1
+Vitamin metabolism,MMADHC
+Detoxification,HAGH
+ROS and glutathione metabolism,TXNRD1
+Small molecule transport,SFXN2
+SLC25A family,SLC25A32
+Signaling,PDE2A
+Mitochondrial dynamics and surveillance,BCL2L2
+Apoptosis,ENDOG
+Mitochondrial central dogma,FASTK
+mtDNA maintenance,TFB2M
+mtRNA metabolism,MRPL12
+mtRNA granules,TRMT10C
+Translation,HEMK1
+Mitochondrial ribosome,MRPL33
+"Protein import, sorting and homeostasis",IDE
+Protein import and sorting,TIMM21
+Protein homeostasis,MUL1
+Proteases,XPNPEP3
+OXPHOS,CMC2
+OXPHOS subunits,COX6C
+OXPHOS assembly factors,DMAC1
+Complex I,NDUFA9
+CI subunits,NDUFB5
+Complex IV,COX6B2
+CIV assembly factors,SURF1
+Metabolism,ACOT2
+Carbohydrate metabolism,IDH3G
+Lipid metabolism,ACSM4
+Fatty acid oxidation,CRAT
+Amino acid metabolism,CA5B
+Nucleotide metabolism,SLC25A23
+Metals and cofactors,COX11
+Fe-S-containing proteins,NTHL1
+Vitamin metabolism,MMUT
+Detoxification,MAOA
+ROS and glutathione metabolism,TXNRD2
+Small molecule transport,SFXN3
+SLC25A family,SLC25A33
+Signaling,PINK1
+Mitochondrial dynamics and surveillance,BID
+Apoptosis,GHITM
+Mitochondrial central dogma,FASTKD1
+mtDNA maintenance,TOP1MT
+mtRNA metabolism,MRPL47
+mtRNA granules,TRUB2
+Translation,IARS2
+Mitochondrial ribosome,MRPL34
+"Protein import, sorting and homeostasis",IMMP1L
+Protein import and sorting,TIMM22
+Protein homeostasis,NLN
+Proteases,YME1L1
+OXPHOS,COA1
+OXPHOS subunits,COX7A1
+OXPHOS assembly factors,DMAC2
+Complex I,NDUFAB1
+CI subunits,NDUFB6
+Complex IV,COX6C
+CIV assembly factors,TACO1
+Metabolism,ACOT7
+Carbohydrate metabolism,L2HGDH
+Lipid metabolism,ACSM5
+Fatty acid oxidation,CROT
+Amino acid metabolism,CHDH
+Nucleotide metabolism,SLC25A24
+Metals and cofactors,COX15
+Fe-S-containing proteins,NUBPL
+Vitamin metabolism,MTFMT
+Detoxification,MAOB
+Small molecule transport,SFXN4
+SLC25A family,SLC25A34
+Signaling,PPIF
+Mitochondrial dynamics and surveillance,BIK
+Apoptosis,HTRA2
+Mitochondrial central dogma,FASTKD2
+mtDNA maintenance,TOP3A
+mtRNA metabolism,MRPS7
+Translation,KARS1
+Mitochondrial ribosome,MRPL35
+"Protein import, sorting and homeostasis",IMMP2L
+Protein import and sorting,TIMM23
+Protein homeostasis,NRDC
+OXPHOS,COA3
+OXPHOS subunits,COX7A2
+OXPHOS assembly factors,ECSIT
+Complex I,NDUFAF1
+CI subunits,NDUFB7
+Complex IV,COX7A1
+CIV assembly factors,TIMM21
+Metabolism,ACOT9
+Carbohydrate metabolism,LDHAL6B
+Lipid metabolism,ACSS1
+Fatty acid oxidation,DECR1
+Amino acid metabolism,COMT
+Nucleotide metabolism,SLC25A25
+Metals and cofactors,COX17
+Fe-S-containing proteins,RSAD1
+Vitamin metabolism,MTHFD1L
+Detoxification,MGST1
+Small molecule transport,SFXN5
+SLC25A family,SLC25A35
+Signaling,PPTC7
+Mitochondrial dynamics and surveillance,BNIP3
+Apoptosis,IFI27
+Mitochondrial central dogma,FASTKD3
+mtDNA maintenance,TWNK
+mtRNA metabolism,MRPS9
+Translation,LARS2
+Mitochondrial ribosome,MRPL36
+"Protein import, sorting and homeostasis",LACTB
+Protein import and sorting,TIMM29
+Protein homeostasis,OMA1
+OXPHOS,COA4
+OXPHOS subunits,COX7A2L
+OXPHOS assembly factors,FMC1
+Complex I,NDUFAF2
+CI subunits,NDUFB8
+Complex IV,COX7A2
+CIV assembly factors,TMEM177
+Metabolism,ACP6
+Carbohydrate metabolism,LDHD
+Lipid metabolism,ACSS3
+Fatty acid oxidation,ECHS1
+Amino acid metabolism,CPS1
+Nucleotide metabolism,SLC25A31
+Metals and cofactors,COX19
+Fe-S-containing proteins,SDHB
+Vitamin metabolism,MTHFD2
+Detoxification,MPST
+Small molecule transport,SLC25A1
+SLC25A family,SLC25A36
+Signaling,PRKACA
+Mitochondrial dynamics and surveillance,BNIP3L
+Apoptosis,MCL1
+Mitochondrial central dogma,FASTKD5
+mtDNA maintenance,UNG
+mtRNA metabolism,MTERF1
+Translation,LRPPRC
+Mitochondrial ribosome,MRPL37
+"Protein import, sorting and homeostasis",LAP3
+Protein import and sorting,TIMM44
+Protein homeostasis,PARK7
+OXPHOS,COA5
+OXPHOS subunits,COX7B
+OXPHOS assembly factors,FOXRED1
+Complex I,NDUFAF3
+CI subunits,NDUFB9
+Complex IV,COX7A2L
+Metabolism,ACSF2
+Carbohydrate metabolism,MCEE
+Lipid metabolism,AGK
+Fatty acid oxidation,ECI1
+Amino acid metabolism,DBT
+Nucleotide metabolism,SLC25A33
+Metals and cofactors,CPOX
+Fe-S-containing proteins,UQCRFS1
+Vitamin metabolism,MTHFD2L
+Detoxification,MSRA
+Small molecule transport,SLC25A10
+SLC25A family,SLC25A37
+Signaling,RHOT1
+Mitochondrial dynamics and surveillance,BOK
+Apoptosis,PMAIP1
+Mitochondrial central dogma,GADD45GIP1
+mtRNA metabolism,MTO1
+Translation,MALSU1
+Mitochondrial ribosome,MRPL38
+"Protein import, sorting and homeostasis",LONP1
+Protein import and sorting,TIMM50
+Protein homeostasis,PARL
+OXPHOS,COA6
+OXPHOS subunits,COX7B2
+OXPHOS assembly factors,HIGD1A
+Complex I,NDUFAF4
+CI subunits,NDUFC1
+Complex IV,COX7B
+Metabolism,ACSF3
+Carbohydrate metabolism,MDH2
+Lipid metabolism,AGPAT4
+Fatty acid oxidation,ECI2
+Amino acid metabolism,DGLUCY
+Nucleotide metabolism,SLC25A36
+Metals and cofactors,CPT1A
+Vitamin metabolism,MTHFS
+Detoxification,MSRB2
+Small molecule transport,SLC25A11
+SLC25A family,SLC25A38
+Signaling,RHOT2
+Mitochondrial dynamics and surveillance,CASP3
+Apoptosis,RTL10
+Mitochondrial central dogma,GARS1
+mtRNA metabolism,MTPAP
+Translation,MARS2
+Mitochondrial ribosome,MRPL39
+"Protein import, sorting and homeostasis",MAIP1
+Protein import and sorting,TIMM8A
+Protein homeostasis,PDF
+OXPHOS,COA7
+OXPHOS subunits,COX7C
+OXPHOS assembly factors,HIGD2A
+Complex I,NDUFAF5
+CI subunits,NDUFC2
+Complex IV,COX7B2
+Metabolism,ACSL1
+Carbohydrate metabolism,ME2
+Lipid metabolism,AGPAT5
+Fatty acid oxidation,ETFA
+Amino acid metabolism,DHTKD1
+Nucleotide metabolism,SLC25A4
+Metals and cofactors,CPT1B
+Vitamin metabolism,MTO1
+Detoxification,MSRB3
+Small molecule transport,SLC25A12
+SLC25A family,SLC25A39
+Signaling,SIRT3
+Mitochondrial dynamics and surveillance,CASP8
+Apoptosis,SEPTIN4
+Mitochondrial central dogma,GATB
+mtRNA metabolism,MTRES1
+Translation,METAP1D
+Mitochondrial ribosome,MRPL4
+"Protein import, sorting and homeostasis",METAP1D
+Protein import and sorting,TIMM8B
+Protein homeostasis,PHB
+OXPHOS,COA8
+OXPHOS subunits,COX8A
+OXPHOS assembly factors,LYRM2
+Complex I,NDUFAF6
+CI subunits,NDUFS1
+Complex IV,COX7C
+Metabolism,ACSL6
+Carbohydrate metabolism,ME3
+Lipid metabolism,AMACR
+Fatty acid oxidation,ETFB
+Amino acid metabolism,DLD
+Nucleotide metabolism,SLC25A41
+Metals and cofactors,CPT1C
+Vitamin metabolism,PC
+Detoxification,MTARC1
+Small molecule transport,SLC25A13
+SLC25A family,SLC25A4
+Signaling,SLC25A12
+Mitochondrial dynamics and surveillance,CASP9
+Apoptosis,SPHK2
+Mitochondrial central dogma,GATC
+mtRNA metabolism,MYG1
+Translation,METTL17
+Mitochondrial ribosome,MRPL40
+"Protein import, sorting and homeostasis",MIPEP
+Protein import and sorting,TIMM9
+Protein homeostasis,PHB2
+OXPHOS,COX10
+OXPHOS subunits,COX8C
+OXPHOS assembly factors,LYRM7
+Complex I,NDUFAF7
+CI subunits,NDUFS2
+Complex IV,COX8A
+Metabolism,ACSM1
+Carbohydrate metabolism,MMUT
+Lipid metabolism,CBR4
+Fatty acid oxidation,ETFDH
+Amino acid metabolism,DLST
+Nucleotide metabolism,SLC25A5
+Metals and cofactors,CPT2
+Vitamin metabolism,PCCA
+Detoxification,MTARC2
+Small molecule transport,SLC25A14
+SLC25A family,SLC25A40
+Signaling,SLC25A13
+Mitochondrial dynamics and surveillance,CHCHD2
+Apoptosis,STYXL1
+Mitochondrial central dogma,GFM1
+mtRNA metabolism,NGRN
+Translation,MIEF1
+Mitochondrial ribosome,MRPL41
+"Protein import, sorting and homeostasis",MTX1
+Protein import and sorting,TOMM20
+Protein homeostasis,PITRM1
+OXPHOS,COX11
+OXPHOS subunits,CYC1
+OXPHOS assembly factors,NDUFAF1
+Complex I,NDUFAF8
+CI subunits,NDUFS3
+Complex IV,COX8C
+Metabolism,ACSM2A
+Carbohydrate metabolism,MPC1
+Lipid metabolism,CHPT1
+Fatty acid oxidation,HADH
+Amino acid metabolism,DMGDH
+Nucleotide metabolism,SLC25A6
+Metals and cofactors,CYB5B
+Vitamin metabolism,PLPBP
+Detoxification,NIT1
+Small molecule transport,SLC25A15
+SLC25A family,SLC25A41
+Signaling,SLC25A23
+Mitochondrial dynamics and surveillance,CHCHD3
+Mitochondrial central dogma,GFM2
+mtRNA metabolism,NOA1
+Translation,MPV17L2
+Mitochondrial ribosome,MRPL42
+"Protein import, sorting and homeostasis",MTX2
+Protein import and sorting,TOMM20L
+Protein homeostasis,PMPCA
+OXPHOS,COX14
+OXPHOS subunits,CYCS
+OXPHOS assembly factors,NDUFAF2
+Complex I,NDUFB1
+CI subunits,NDUFS4
+Complex IV,HIGD1A
+Metabolism,ACSM2B
+Carbohydrate metabolism,MPC1L
+Lipid metabolism,CPT1A
+Fatty acid oxidation,HADHA
+Amino acid metabolism,ECHS1
+Nucleotide metabolism,SUCLA2
+Metals and cofactors,CYC1
+Vitamin metabolism,PNPO
+Detoxification,NIT2
+Small molecule transport,SLC25A16
+SLC25A family,SLC25A42
+Signaling,SLC25A24
+Mitochondrial dynamics and surveillance,CHCHD6
+Mitochondrial central dogma,GRSF1
+mtRNA metabolism,NSUN2
+Translation,MRM2
+Mitochondrial ribosome,MRPL43
+"Protein import, sorting and homeostasis",MUL1
+Protein import and sorting,TOMM22
+Protein homeostasis,PMPCB
+OXPHOS,COX15
+OXPHOS subunits,DMAC2L
+OXPHOS assembly factors,NDUFAF3
+Complex I,NDUFB10
+CI subunits,NDUFS5
+Complex IV,MT-CO1
+Metabolism,ACSM3
+Carbohydrate metabolism,MPC2
+Lipid metabolism,CPT1B
+Fatty acid oxidation,HADHB
+Amino acid metabolism,ETFA
+Nucleotide metabolism,SUCLG1
+Metals and cofactors,CYCS
+Vitamin metabolism,QDPR
+Detoxification,OXR1
+Small molecule transport,SLC25A18
+SLC25A family,SLC25A43
+Signaling,SLC25A25
+Mitochondrial dynamics and surveillance,CYCS
+Mitochondrial central dogma,GTPBP10
+mtRNA metabolism,NSUN3
+Translation,MRM3
+Mitochondrial ribosome,MRPL44
+"Protein import, sorting and homeostasis",NLN
+Protein import and sorting,TOMM34
+Protein homeostasis,PRSS35
+OXPHOS,COX16
+OXPHOS subunits,HCCS
+OXPHOS assembly factors,NDUFAF4
+Complex I,NDUFB11
+CI subunits,NDUFS6
+Complex IV,MT-CO2
+Metabolism,ACSM4
+Carbohydrate metabolism,MRPS36
+Lipid metabolism,CPT1C
+Fatty acid oxidation,HSD17B10
+Amino acid metabolism,ETFB
+Nucleotide metabolism,SUCLG2
+Metals and cofactors,CYP11A1
+Vitamin metabolism,RDH13
+Detoxification,PRDX2
+Small molecule transport,SLC25A19
+SLC25A family,SLC25A44
+Signaling,SLC25A3
+Mitochondrial dynamics and surveillance,DIABLO
+Mitochondrial central dogma,GTPBP3
+mtRNA metabolism,NSUN4
+Translation,MRPL1
+Mitochondrial ribosome,MRPL45
+"Protein import, sorting and homeostasis",NRDC
+Protein import and sorting,TOMM40
+Protein homeostasis,SPG7
+OXPHOS,COX17
+OXPHOS subunits,MT-ATP6
+OXPHOS assembly factors,NDUFAF5
+Complex I,NDUFB2
+CI subunits,NDUFS7
+Complex IV,MT-CO3
+Metabolism,ACSM5
+Carbohydrate metabolism,NEU4
+Lipid metabolism,CPT2
+Fatty acid oxidation,MCEE
+Amino acid metabolism,ETFDH
+Nucleotide metabolism,TK2
+Metals and cofactors,CYP11B1
+Vitamin metabolism,RDH14
+Detoxification,PRDX3
+Small molecule transport,SLC25A20
+SLC25A family,SLC25A45
+Signaling,SLC25A31
+Mitochondrial dynamics and surveillance,DNAJC11
+Mitochondrial central dogma,GUF1
+mtRNA metabolism,OSGEPL1
+Translation,MRPL10
+Mitochondrial ribosome,MRPL46
+"Protein import, sorting and homeostasis",OMA1
+Protein import and sorting,TOMM40L
+Protein homeostasis,STOML2
+OXPHOS,COX18
+OXPHOS subunits,MT-ATP8
+OXPHOS assembly factors,NDUFAF6
+Complex I,NDUFB3
+CI subunits,NDUFS8
+Complex IV,NDUFA4
+Metabolism,ACSS1
+Carbohydrate metabolism,OGDH
+Lipid metabolism,CRAT
+Fatty acid oxidation,MMUT
+Amino acid metabolism,GCAT
+Metals and cofactors,CYP11B2
+Vitamin metabolism,RFK
+Detoxification,PRDX4
+Small molecule transport,SLC25A21
+SLC25A family,SLC25A46
+Signaling,SLC25A4
+Mitochondrial dynamics and surveillance,DNM1L
+Mitochondrial central dogma,HARS2
+mtRNA metabolism,PDE12
+Translation,MRPL11
+Mitochondrial ribosome,MRPL47
+"Protein import, sorting and homeostasis",OXA1L
+Protein import and sorting,TOMM5
+Protein homeostasis,TIMM10
+OXPHOS,COX19
+OXPHOS subunits,MT-CO1
+OXPHOS assembly factors,NDUFAF7
+Complex I,NDUFB4
+CI subunits,NDUFV1
+Complex IV,PET100
+Metabolism,ACSS3
+Carbohydrate metabolism,OGDHL
+Lipid metabolism,CRLS1
+Fatty acid oxidation,PCCA
+Amino acid metabolism,GCDH
+Metals and cofactors,CYP24A1
+Vitamin metabolism,SARDH
+Detoxification,PRDX5
+Small molecule transport,SLC25A22
+SLC25A family,SLC25A47
+Signaling,SLC25A5
+Mitochondrial dynamics and surveillance,ENDOG
+Mitochondrial central dogma,HEMK1
+mtRNA metabolism,PNPT1
+Translation,MRPL12
+Mitochondrial ribosome,MRPL48
+"Protein import, sorting and homeostasis",PAM16
+Protein import and sorting,TOMM6
+Protein homeostasis,TIMM10B
+OXPHOS,COX20
+OXPHOS subunits,MT-CO2
+OXPHOS assembly factors,NDUFAF8
+Complex I,NDUFB5
+CI subunits,NDUFV2
+Complex IV,PET117
+Metabolism,ADHFE1
+Carbohydrate metabolism,OXCT1
+Lipid metabolism,CROT
+Fatty acid oxidation,PCCB
+Amino acid metabolism,GCSH
+Metals and cofactors,CYP27A1
+Vitamin metabolism,SFXN1
+Detoxification,PRDX6
+Small molecule transport,SLC25A23
+SLC25A family,SLC25A48
+Signaling,SLC25A6
+Mitochondrial dynamics and surveillance,FIS1
+Mitochondrial central dogma,HSD17B10
+mtRNA metabolism,POLRMT
+Translation,MRPL13
+Mitochondrial ribosome,MRPL49
+"Protein import, sorting and homeostasis",PARK7
+Protein import and sorting,TOMM7
+Protein homeostasis,TIMM13
+OXPHOS,COX4I1
+OXPHOS subunits,MT-CO3
+OXPHOS assembly factors,NUBPL
+Complex I,NDUFB6
+CI subunits,NDUFV3
+Complex IV,PNKD
+Metabolism,AGK
+Carbohydrate metabolism,OXCT2
+Lipid metabolism,CYB5R3
+Fatty acid oxidation,SLC25A20
+Amino acid metabolism,GLDC
+Metals and cofactors,CYP27B1
+Vitamin metabolism,SFXN3
+Detoxification,PRXL2A
+Small molecule transport,SLC25A24
+SLC25A family,SLC25A5
+Signaling,SLC8B1
+Mitochondrial dynamics and surveillance,FKBP8
+Mitochondrial central dogma,IARS2
+mtRNA metabolism,PPA2
+Translation,MRPL14
+Mitochondrial ribosome,MRPL50
+"Protein import, sorting and homeostasis",PARL
+Protein import and sorting,TOMM70
+Protein homeostasis,TIMM8A
+OXPHOS,COX4I2
+OXPHOS subunits,MT-CYB
+OXPHOS assembly factors,PET100
+Complex I,NDUFB7
+Complex IV,SCO1
+Metabolism,AGMAT
+Carbohydrate metabolism,PC
+Lipid metabolism,CYP11A1
+Amino acid metabolism,GLS
+Metals and cofactors,DNA2
+Vitamin metabolism,SHMT2
+Detoxification,SELENOO
+Small molecule transport,SLC25A25
+SLC25A family,SLC25A51
+Signaling,SMDT1
+Mitochondrial dynamics and surveillance,FUNDC1
+Mitochondrial central dogma,KARS1
+mtRNA metabolism,PRORP
+Translation,MRPL15
+Mitochondrial ribosome,MRPL51
+"Protein import, sorting and homeostasis",PDF
+Protein import and sorting,UQCRC1
+Protein homeostasis,TIMM8B
+OXPHOS,COX5A
+OXPHOS subunits,MT-ND1
+OXPHOS assembly factors,PET117
+Complex I,NDUFB8
+Complex IV,SCO2
+Metabolism,AGPAT4
+Carbohydrate metabolism,PCCA
+Lipid metabolism,CYP11B1
+Amino acid metabolism,GLS2
+Metals and cofactors,ETFDH
+Vitamin metabolism,SLC25A19
+Detoxification,SOD1
+Small molecule transport,SLC25A26
+SLC25A family,SLC25A52
+Signaling,SPHKAP
+Mitochondrial dynamics and surveillance,FUNDC2
+Mitochondrial central dogma,LACTB2
+mtRNA metabolism,PTCD1
+Translation,MRPL16
+Mitochondrial ribosome,MRPL52
+"Protein import, sorting and homeostasis",PHB
+Protein import and sorting,UQCRC2
+Protein homeostasis,TIMM9
+OXPHOS,COX5B
+OXPHOS subunits,MT-ND2
+OXPHOS assembly factors,PNKD
+Complex I,NDUFB9
+Complex IV,SMIM20
+Metabolism,AGPAT5
+Carbohydrate metabolism,PCCB
+Lipid metabolism,CYP11B2
+Amino acid metabolism,GLUD1
+Metals and cofactors,FABP1
+Vitamin metabolism,SLC25A32
+Detoxification,SOD2
+Small molecule transport,SLC25A27
+SLC25A family,SLC25A53
+Signaling,VDAC1
+Mitochondrial dynamics and surveillance,GHITM
+Mitochondrial central dogma,LARS2
+mtRNA metabolism,PTCD2
+Translation,MRPL17
+Mitochondrial ribosome,MRPL53
+"Protein import, sorting and homeostasis",PHB2
+Protein import and sorting,XPNPEP3
+Protein homeostasis,TRAP1
+OXPHOS,COX6A1
+OXPHOS subunits,MT-ND3
+OXPHOS assembly factors,RAB5IF
+Complex I,NDUFC1
+Complex IV,SURF1
+Metabolism,AGXT
+Carbohydrate metabolism,PCK2
+Lipid metabolism,CYP27A1
+Amino acid metabolism,GLUD2
+Metals and cofactors,FAM210B
+Vitamin metabolism,SLC25A38
+Detoxification,TST
+Small molecule transport,SLC25A28
+SLC25A family,SLC25A6
+Signaling,VDAC3
+Mitochondrial dynamics and surveillance,HTRA2
+Mitochondrial central dogma,LIG3
+mtRNA metabolism,PUS1
+Translation,MRPL18
+Mitochondrial ribosome,MRPL54
+"Protein import, sorting and homeostasis",PITRM1
+Protein homeostasis,USP30
+OXPHOS,COX6A2
+OXPHOS subunits,MT-ND4
+OXPHOS assembly factors,SCO1
+Complex I,NDUFC2
+Complex IV,TACO1
+Metabolism,AGXT2
+Carbohydrate metabolism,PDHA1
+Lipid metabolism,DBI
+Amino acid metabolism,GLYAT
+Metals and cofactors,FDX1
+Vitamin metabolism,TXN2
+Detoxification,TXN2
+Small molecule transport,SLC25A29
+SLC25A family,UCP1
+Mitochondrial dynamics and surveillance,IFI27
+Mitochondrial central dogma,LRPPRC
+mtRNA metabolism,QTRT1
+Translation,MRPL19
+Mitochondrial ribosome,MRPL55
+"Protein import, sorting and homeostasis",PMPCA
+Protein homeostasis,XPNPEP3
+OXPHOS,COX6B1
+OXPHOS subunits,MT-ND4L
+OXPHOS assembly factors,SCO2
+Complex I,NDUFS1
+Complex IV,TIMM21
+Metabolism,AIFM2
+Carbohydrate metabolism,PDHA2
+Lipid metabolism,DECR1
+Amino acid metabolism,GOT2
+Metals and cofactors,FDX2
+Detoxification,TXNRD1
+Small molecule transport,SLC25A3
+SLC25A family,UCP2
+Mitochondrial dynamics and surveillance,IMMT
+Mitochondrial central dogma,MALSU1
+mtRNA metabolism,RCC1L
+Translation,MRPL2
+Mitochondrial ribosome,MRPL57
+"Protein import, sorting and homeostasis",PMPCB
+Protein homeostasis,YME1L1
+OXPHOS,COX6B2
+OXPHOS subunits,MT-ND5
+OXPHOS assembly factors,SDHAF1
+Complex I,NDUFS2
+Complex IV,TMEM177
+Metabolism,AIFM3
+Carbohydrate metabolism,PDHB
+Lipid metabolism,DHRS1
+Amino acid metabolism,GPT2
+Metals and cofactors,FDXR
+Detoxification,TXNRD2
+Small molecule transport,SLC25A30
+SLC25A family,UCP3
+Mitochondrial dynamics and surveillance,MARCHF5
+Mitochondrial central dogma,MARS2
+mtRNA metabolism,REXO2
+Translation,MRPL20
+Mitochondrial ribosome,MRPL58
+"Protein import, sorting and homeostasis",PRSS35
+OXPHOS,COX6C
+OXPHOS subunits,MT-ND6
+OXPHOS assembly factors,SDHAF2
+Complex I,NDUFS3
+Metabolism,AK2
+Carbohydrate metabolism,PDHX
+Lipid metabolism,ECH1
+Amino acid metabolism,GRHPR
+Metals and cofactors,FECH
+Small molecule transport,SLC25A31
+Mitochondrial dynamics and surveillance,MCL1
+Mitochondrial central dogma,METAP1D
+mtRNA metabolism,RMND1
+Translation,MRPL21
+Mitochondrial ribosome,MRPL9
+"Protein import, sorting and homeostasis",ROMO1
+OXPHOS,COX7A1
+OXPHOS subunits,NDUFA1
+OXPHOS assembly factors,SDHAF3
+Complex I,NDUFS4
+Metabolism,AK3
+Carbohydrate metabolism,PDK1
+Lipid metabolism,ECHDC1
+Amino acid metabolism,HADH
+Metals and cofactors,FTH1
+Small molecule transport,SLC25A32
+Mitochondrial dynamics and surveillance,MFF
+Mitochondrial central dogma,METTL15
+mtRNA metabolism,RNASEH1
+Translation,MRPL22
+Mitochondrial ribosome,MRPS10
+"Protein import, sorting and homeostasis",SAMM50
+OXPHOS,COX7A2
+OXPHOS subunits,NDUFA10
+OXPHOS assembly factors,SDHAF4
+Complex I,NDUFS5
+Metabolism,AK4
+Carbohydrate metabolism,PDK2
+Lipid metabolism,ECHS1
+Amino acid metabolism,HADHA
+Metals and cofactors,FTMT
+Small molecule transport,SLC25A33
+Mitochondrial dynamics and surveillance,MFN1
+Mitochondrial central dogma,METTL17
+mtRNA metabolism,RPUSD3
+Translation,MRPL23
+Mitochondrial ribosome,MRPS11
+"Protein import, sorting and homeostasis",SPG7
+OXPHOS,COX7A2L
+OXPHOS subunits,NDUFA11
+OXPHOS assembly factors,SMIM20
+Complex I,NDUFS6
+Metabolism,AKR1B10
+Carbohydrate metabolism,PDK3
+Lipid metabolism,ECI1
+Amino acid metabolism,HADHB
+Metals and cofactors,FXN
+Small molecule transport,SLC25A34
+Mitochondrial dynamics and surveillance,MFN2
+Mitochondrial central dogma,METTL4
+mtRNA metabolism,RPUSD4
+Translation,MRPL24
+Mitochondrial ribosome,MRPS12
+"Protein import, sorting and homeostasis",STOML2
+OXPHOS,COX7B
+OXPHOS subunits,NDUFA12
+OXPHOS assembly factors,SURF1
+Complex I,NDUFS7
+Metabolism,AKR7A2
+Carbohydrate metabolism,PDK4
+Lipid metabolism,ECI2
+Amino acid metabolism,HIBADH
+Metals and cofactors,GLRX2
+Small molecule transport,SLC25A35
+Mitochondrial dynamics and surveillance,MGARP
+Mitochondrial central dogma,METTL5
+mtRNA metabolism,SLIRP
+Translation,MRPL27
+Mitochondrial ribosome,MRPS14
+"Protein import, sorting and homeostasis",TIMM10
+OXPHOS,COX7B2
+OXPHOS subunits,NDUFA13
+OXPHOS assembly factors,TACO1
+Complex I,NDUFS8
+Metabolism,ALAS1
+Carbohydrate metabolism,PDP1
+Lipid metabolism,EHHADH
+Amino acid metabolism,HIBCH
+Metals and cofactors,GLRX5
+Small molecule transport,SLC25A36
+Mitochondrial dynamics and surveillance,MICOS10
+Mitochondrial central dogma,METTL8
+mtRNA metabolism,SUPV3L1
+Translation,MRPL28
+Mitochondrial ribosome,MRPS15
+"Protein import, sorting and homeostasis",TIMM10B
+OXPHOS,COX7C
+OXPHOS subunits,NDUFA2
+OXPHOS assembly factors,TIMM21
+Complex I,NDUFV1
+Metabolism,ALAS2
+Carbohydrate metabolism,PDP2
+Lipid metabolism,EPHX2
+Amino acid metabolism,HMGCL
+Metals and cofactors,GRPEL1
+Small molecule transport,SLC25A37
+Mitochondrial dynamics and surveillance,MICOS13
+Mitochondrial central dogma,MGME1
+mtRNA metabolism,TBRG4
+Translation,MRPL3
+Mitochondrial ribosome,MRPS16
+"Protein import, sorting and homeostasis",TIMM13
+OXPHOS,COX8A
+OXPHOS subunits,NDUFA3
+OXPHOS assembly factors,TIMMDC1
+Complex I,NDUFV2
+Metabolism,ALDH18A1
+Carbohydrate metabolism,PDPR
+Lipid metabolism,ETFA
+Amino acid metabolism,HOGA1
+Metals and cofactors,GRPEL2
+Small molecule transport,SLC25A38
+Mitochondrial dynamics and surveillance,MIEF1
+Mitochondrial central dogma,MIEF1
+mtRNA metabolism,TEFM
+Translation,MRPL30
+Mitochondrial ribosome,MRPS17
+"Protein import, sorting and homeostasis",TIMM17A
+OXPHOS,COX8C
+OXPHOS subunits,NDUFA4
+OXPHOS assembly factors,TMEM126A
+Complex I,NDUFV3
+Metabolism,ALDH1B1
+Carbohydrate metabolism,RPIA
+Lipid metabolism,ETFB
+Amino acid metabolism,HSD17B10
+Metals and cofactors,HCCS
+Small molecule transport,SLC25A39
+Mitochondrial dynamics and surveillance,MIEF2
+Mitochondrial central dogma,MPV17L2
+mtRNA metabolism,TFAM
+Translation,MRPL32
+Mitochondrial ribosome,MRPS18A
+"Protein import, sorting and homeostasis",TIMM17B
+OXPHOS,CYC1
+OXPHOS subunits,NDUFA5
+OXPHOS assembly factors,TMEM126B
+Complex I,NUBPL
+Metabolism,ALDH1L1
+Carbohydrate metabolism,SDHA
+Lipid metabolism,ETFDH
+Amino acid metabolism,IVD
+Metals and cofactors,HSCB
+Small molecule transport,SLC25A4
+Mitochondrial dynamics and surveillance,MIGA1
+Mitochondrial central dogma,MRM1
+mtRNA metabolism,TFB1M
+Translation,MRPL33
+Mitochondrial ribosome,MRPS18B
+"Protein import, sorting and homeostasis",TIMM21
+OXPHOS,CYCS
+OXPHOS subunits,NDUFA6
+OXPHOS assembly factors,TMEM177
+Complex I,TIMMDC1
+Metabolism,ALDH1L2
+Carbohydrate metabolism,SDHB
+Lipid metabolism,FABP1
+Amino acid metabolism,KMO
+Metals and cofactors,HSPA9
+Small molecule transport,SLC25A40
+Mitochondrial dynamics and surveillance,MIGA2
+Mitochondrial central dogma,MRM2
+mtRNA metabolism,TFB2M
+Translation,MRPL34
+Mitochondrial ribosome,MRPS18C
+"Protein import, sorting and homeostasis",TIMM22
+OXPHOS,DMAC1
+OXPHOS subunits,NDUFA7
+OXPHOS assembly factors,TMEM186
+Complex I,TMEM126A
+Metabolism,ALDH2
+Carbohydrate metabolism,SDHC
+Lipid metabolism,FASN
+Amino acid metabolism,KYAT3
+Metals and cofactors,IBA57
+Small molecule transport,SLC25A41
+Mitochondrial dynamics and surveillance,MTCH2
+Mitochondrial central dogma,MRM3
+mtRNA metabolism,THG1L
+Translation,MRPL35
+Mitochondrial ribosome,MRPS2
+"Protein import, sorting and homeostasis",TIMM23
+OXPHOS,DMAC2
+OXPHOS subunits,NDUFA8
+OXPHOS assembly factors,TMEM70
+Complex I,TMEM126B
+Metabolism,ALDH3A2
+Carbohydrate metabolism,SDHD
+Lipid metabolism,FDPS
+Amino acid metabolism,LDHB
+Metals and cofactors,ISCA1
+Small molecule transport,SLC25A42
+Mitochondrial dynamics and surveillance,MTFP1
+Mitochondrial central dogma,MRPL1
+mtRNA metabolism,TOP1MT
+Translation,MRPL36
+Mitochondrial ribosome,MRPS21
+"Protein import, sorting and homeostasis",TIMM29
+OXPHOS,DMAC2L
+OXPHOS subunits,NDUFA9
+OXPHOS assembly factors,TTC19
+Complex I,TMEM186
+Metabolism,ALDH4A1
+Carbohydrate metabolism,SFXN5
+Lipid metabolism,FDX1
+Amino acid metabolism,MAOA
+Metals and cofactors,ISCA2
+Small molecule transport,SLC25A43
+Mitochondrial dynamics and surveillance,MTFR1
+Mitochondrial central dogma,MRPL10
+mtRNA metabolism,TRIT1
+Translation,MRPL37
+Mitochondrial ribosome,MRPS22
+"Protein import, sorting and homeostasis",TIMM44
+OXPHOS,ECSIT
+OXPHOS subunits,NDUFAB1
+OXPHOS assembly factors,UQCC1
+Complex I,TMEM70
+Metabolism,ALDH5A1
+Carbohydrate metabolism,SLC25A1
+Lipid metabolism,FDXR
+Amino acid metabolism,MAOB
+Metals and cofactors,ISCU
+Small molecule transport,SLC25A44
+Mitochondrial dynamics and surveillance,MTFR2
+Mitochondrial central dogma,MRPL11
+mtRNA metabolism,TRMT1
+Translation,MRPL38
+Mitochondrial ribosome,MRPS23
+"Protein import, sorting and homeostasis",TIMM50
+OXPHOS,FMC1
+OXPHOS subunits,NDUFB1
+OXPHOS assembly factors,UQCC2
+Metabolism,ALDH6A1
+Carbohydrate metabolism,SLC25A10
+Lipid metabolism,GCSH
+Amino acid metabolism,MCCC1
+Metals and cofactors,KMO
+Small molecule transport,SLC25A45
+Mitochondrial dynamics and surveillance,MTX1
+Mitochondrial central dogma,MRPL12
+mtRNA metabolism,TRMT10C
+Translation,MRPL39
+Mitochondrial ribosome,MRPS24
+"Protein import, sorting and homeostasis",TIMM8A
+OXPHOS,FOXRED1
+OXPHOS subunits,NDUFB10
+OXPHOS assembly factors,UQCC3
+Metabolism,ALDH7A1
+Carbohydrate metabolism,SLC25A11
+Lipid metabolism,GPAM
+Amino acid metabolism,MCCC2
+Metals and cofactors,KYAT3
+Small molecule transport,SLC25A46
+Mitochondrial dynamics and surveillance,MTX2
+Mitochondrial central dogma,MRPL13
+mtRNA metabolism,TRMT2B
+Translation,MRPL4
+Mitochondrial ribosome,MRPS25
+"Protein import, sorting and homeostasis",TIMM8B
+OXPHOS,HCCS
+OXPHOS subunits,NDUFB11
+Metabolism,ALDH9A1
+Carbohydrate metabolism,SLC25A12
+Lipid metabolism,GPAT2
+Amino acid metabolism,NAGS
+Metals and cofactors,LIAS
+Small molecule transport,SLC25A47
+Mitochondrial dynamics and surveillance,MTX3
+Mitochondrial central dogma,MRPL14
+mtRNA metabolism,TRMT5
+Translation,MRPL40
+Mitochondrial ribosome,MRPS26
+"Protein import, sorting and homeostasis",TIMM9
+OXPHOS,HIGD1A
+OXPHOS subunits,NDUFB2
+Metabolism,AMACR
+Carbohydrate metabolism,SLC25A13
+Lipid metabolism,HADH
+Amino acid metabolism,NAT8L
+Metals and cofactors,LYRM4
+Small molecule transport,SLC25A48
+Mitochondrial dynamics and surveillance,MUL1
+Mitochondrial central dogma,MRPL15
+mtRNA metabolism,TRMT61B
+Translation,MRPL41
+Mitochondrial ribosome,MRPS27
+"Protein import, sorting and homeostasis",TOMM20
+OXPHOS,HIGD2A
+OXPHOS subunits,NDUFB3
+Metabolism,AMT
+Carbohydrate metabolism,SUCLA2
+Lipid metabolism,HADHA
+Amino acid metabolism,OAT
+Metals and cofactors,MOCS1
+Small molecule transport,SLC25A5
+Mitochondrial dynamics and surveillance,MYO19
+Mitochondrial central dogma,MRPL16
+mtRNA metabolism,TRMU
+Translation,MRPL42
+Mitochondrial ribosome,MRPS28
+"Protein import, sorting and homeostasis",TOMM20L
+OXPHOS,LYRM2
+OXPHOS subunits,NDUFB4
+Metabolism,ANTKMT
+Carbohydrate metabolism,SUCLG1
+Lipid metabolism,HADHB
+Amino acid metabolism,OTC
+Metals and cofactors,MT-CO1
+Small molecule transport,SLC25A51
+Mitochondrial dynamics and surveillance,NBR1
+Mitochondrial central dogma,MRPL17
+mtRNA metabolism,TRNT1
+Translation,MRPL43
+Mitochondrial ribosome,MRPS30
+"Protein import, sorting and homeostasis",TOMM22
+OXPHOS,LYRM7
+OXPHOS subunits,NDUFB5
+Metabolism,ARG2
+Carbohydrate metabolism,SUCLG2
+Lipid metabolism,HAO2
+Amino acid metabolism,PPM1K
+Metals and cofactors,MT-CYB
+Small molecule transport,SLC25A52
+Mitochondrial dynamics and surveillance,NIPSNAP1
+Mitochondrial central dogma,MRPL18
+mtRNA metabolism,TRUB2
+Translation,MRPL44
+Mitochondrial ribosome,MRPS31
+"Protein import, sorting and homeostasis",TOMM34
+OXPHOS,MT-ATP6
+OXPHOS subunits,NDUFB6
+Metabolism,AUH
+Lipid metabolism,HINT2
+Amino acid metabolism,PRODH
+Metals and cofactors,MTARC1
+Small molecule transport,SLC25A53
+Mitochondrial dynamics and surveillance,NIPSNAP2
+Mitochondrial central dogma,MRPL19
+mtRNA metabolism,YBEY
+Translation,MRPL45
+Mitochondrial ribosome,MRPS33
+"Protein import, sorting and homeostasis",TOMM40
+OXPHOS,MT-ATP8
+OXPHOS subunits,NDUFB7
+Metabolism,BCAT2
+Lipid metabolism,HSD17B10
+Amino acid metabolism,PRODH2
+Metals and cofactors,MTARC2
+Small molecule transport,SLC25A6
+Mitochondrial dynamics and surveillance,OMA1
+Mitochondrial central dogma,MRPL2
+mtRNA metabolism,YRDC
+Translation,MRPL46
+Mitochondrial ribosome,MRPS34
+"Protein import, sorting and homeostasis",TOMM40L
+OXPHOS,MT-CO1
+OXPHOS subunits,NDUFB8
+Metabolism,BCKDHA
+Lipid metabolism,HSD17B4
+Amino acid metabolism,PYCR1
+Metals and cofactors,NADK2
+Small molecule transport,SLC30A9
+Mitochondrial dynamics and surveillance,OPA1
+Mitochondrial central dogma,MRPL20
+Translation,MRPL47
+Mitochondrial ribosome,MRPS35
+"Protein import, sorting and homeostasis",TOMM5
+OXPHOS,MT-CO2
+OXPHOS subunits,NDUFB9
+Metabolism,BCKDHB
+Lipid metabolism,HSD17B8
+Amino acid metabolism,PYCR2
+Metals and cofactors,NAXD
+Small molecule transport,SLC8B1
+Mitochondrial dynamics and surveillance,PARK7
+Mitochondrial central dogma,MRPL21
+Translation,MRPL48
+Mitochondrial ribosome,MRPS36
+"Protein import, sorting and homeostasis",TOMM6
+OXPHOS,MT-CO3
+OXPHOS subunits,NDUFC1
+Metabolism,BCKDK
+Lipid metabolism,HTD2
+Amino acid metabolism,SARDH
+Metals and cofactors,NAXE
+Small molecule transport,SMDT1
+Mitochondrial dynamics and surveillance,PARL
+Mitochondrial central dogma,MRPL22
+Translation,MRPL49
+Mitochondrial ribosome,MRPS5
+"Protein import, sorting and homeostasis",TOMM7
+OXPHOS,MT-CYB
+OXPHOS subunits,NDUFC2
+Metabolism,BCO2
+Lipid metabolism,IDI1
+Amino acid metabolism,SDSL
+Metals and cofactors,NDUFAB1
+Small molecule transport,STARD7
+Mitochondrial dynamics and surveillance,PGAM5
+Mitochondrial central dogma,MRPL23
+Translation,MRPL50
+Mitochondrial ribosome,MRPS6
+"Protein import, sorting and homeostasis",TOMM70
+OXPHOS,MT-ND1
+OXPHOS subunits,NDUFS1
+Metabolism,BDH1
+Lipid metabolism,LACTB
+Amino acid metabolism,SFXN1
+Metals and cofactors,NDUFS1
+Small molecule transport,UCP1
+Mitochondrial dynamics and surveillance,PIGBOS1
+Mitochondrial central dogma,MRPL24
+Translation,MRPL51
+Mitochondrial ribosome,MRPS7
+"Protein import, sorting and homeostasis",TRAP1
+OXPHOS,MT-ND2
+OXPHOS subunits,NDUFS2
+Metabolism,BOLA1
+Lipid metabolism,LIAS
+Amino acid metabolism,SFXN3
+Metals and cofactors,NDUFS2
+Small molecule transport,UCP2
+Mitochondrial dynamics and surveillance,PINK1
+Mitochondrial central dogma,MRPL27
+Translation,MRPL52
+Mitochondrial ribosome,MRPS9
+"Protein import, sorting and homeostasis",UQCRC1
+OXPHOS,MT-ND3
+OXPHOS subunits,NDUFS3
+Metabolism,BOLA3
+Lipid metabolism,LIPT1
+Amino acid metabolism,SHMT2
+Metals and cofactors,NDUFS7
+Small molecule transport,UCP3
+Mitochondrial dynamics and surveillance,PLD6
+Mitochondrial central dogma,MRPL28
+Translation,MRPL53
+Mitochondrial ribosome,PTCD3
+"Protein import, sorting and homeostasis",UQCRC2
+OXPHOS,MT-ND4
+OXPHOS subunits,NDUFS4
+Metabolism,BPHL
+Lipid metabolism,LIPT2
+Amino acid metabolism,SLC25A12
+Metals and cofactors,NDUFS8
+Small molecule transport,VDAC1
+Mitochondrial dynamics and surveillance,PMAIP1
+Mitochondrial central dogma,MRPL3
+Translation,MRPL54
+"Protein import, sorting and homeostasis",USP30
+OXPHOS,MT-ND4L
+OXPHOS subunits,NDUFS5
+Metabolism,CA5A
+Lipid metabolism,LYPLA1
+Amino acid metabolism,SLC25A13
+Metals and cofactors,NDUFV1
+Small molecule transport,VDAC2
+Mitochondrial dynamics and surveillance,PRKN
+Mitochondrial central dogma,MRPL30
+Translation,MRPL55
+"Protein import, sorting and homeostasis",XPNPEP3
+OXPHOS,MT-ND5
+OXPHOS subunits,NDUFS6
+Metabolism,CA5B
+Lipid metabolism,LYPLAL1
+Amino acid metabolism,SLC25A15
+Metals and cofactors,NDUFV2
+Small molecule transport,VDAC3
+Mitochondrial dynamics and surveillance,RAB24
+Mitochondrial central dogma,MRPL32
+Translation,MRPL57
+"Protein import, sorting and homeostasis",YME1L1
+OXPHOS,MT-ND6
+OXPHOS subunits,NDUFS7
+Metabolism,CAT
+Lipid metabolism,MCAT
+Amino acid metabolism,SLC25A21
+Metals and cofactors,NFS1
+Mitochondrial dynamics and surveillance,RHOT1
+Mitochondrial central dogma,MRPL33
+Translation,MRPL58
+OXPHOS,NDUFA1
+OXPHOS subunits,NDUFS8
+Metabolism,CBR3
+Lipid metabolism,MCEE
+Amino acid metabolism,SLC25A29
+Metals and cofactors,NFU1
+Mitochondrial dynamics and surveillance,RHOT2
+Mitochondrial central dogma,MRPL34
+Translation,MRPL9
+OXPHOS,NDUFA10
+OXPHOS subunits,NDUFV1
+Metabolism,CBR4
+Lipid metabolism,MECR
+Amino acid metabolism,SLC25A38
+Metals and cofactors,NMNAT3
+Mitochondrial dynamics and surveillance,RMDN3
+Mitochondrial central dogma,MRPL35
+Translation,MRPS10
+OXPHOS,NDUFA11
+OXPHOS subunits,NDUFV2
+Metabolism,CHCHD7
+Lipid metabolism,MGST3
+Amino acid metabolism,SLC25A44
+Metals and cofactors,NNT
+Mitochondrial dynamics and surveillance,RTL10
+Mitochondrial central dogma,MRPL36
+Translation,MRPS11
+OXPHOS,NDUFA12
+OXPHOS subunits,NDUFV3
+Metabolism,CHDH
+Lipid metabolism,MLYCD
+Amino acid metabolism,SUGCT
+Metals and cofactors,NOCT
+Mitochondrial dynamics and surveillance,SAMM50
+Mitochondrial central dogma,MRPL37
+Translation,MRPS12
+OXPHOS,NDUFA13
+OXPHOS subunits,SDHA
+Metabolism,CHPT1
+Lipid metabolism,MMUT
+Metals and cofactors,NTHL1
+Mitochondrial dynamics and surveillance,SEPTIN4
+Mitochondrial central dogma,MRPL38
+Translation,MRPS14
+OXPHOS,NDUFA2
+OXPHOS subunits,SDHB
+Metabolism,CISD1
+Lipid metabolism,NDUFAB1
+Metals and cofactors,NUBPL
+Mitochondrial dynamics and surveillance,SLC25A46
+Mitochondrial central dogma,MRPL39
+Translation,MRPS15
+OXPHOS,NDUFA3
+OXPHOS subunits,SDHC
+Metabolism,CISD3
+Lipid metabolism,OSBPL1A
+Metals and cofactors,NUDT13
+Mitochondrial dynamics and surveillance,SNAP29
+Mitochondrial central dogma,MRPL4
+Translation,MRPS16
+OXPHOS,NDUFA4
+OXPHOS subunits,SDHD
+Metabolism,CKMT1A
+Lipid metabolism,OXSM
+Metals and cofactors,NUDT19
+Mitochondrial dynamics and surveillance,SPHK2
+Mitochondrial central dogma,MRPL40
+Translation,MRPS17
+OXPHOS,NDUFA5
+OXPHOS subunits,UQCR10
+Metabolism,CKMT1B
+Lipid metabolism,PCCA
+Metals and cofactors,NUDT8
+Mitochondrial dynamics and surveillance,SPIRE1
+Mitochondrial central dogma,MRPL41
+Translation,MRPS18A
+OXPHOS,NDUFA6
+OXPHOS subunits,UQCR11
+Metabolism,CKMT2
+Lipid metabolism,PCCB
+Metals and cofactors,PANK2
+Mitochondrial dynamics and surveillance,STX17
+Mitochondrial central dogma,MRPL42
+Translation,MRPS18B
+OXPHOS,NDUFA7
+OXPHOS subunits,UQCRB
+Metabolism,CLYBL
+Lipid metabolism,PGS1
+Metals and cofactors,PCBD2
+Mitochondrial dynamics and surveillance,STYXL1
+Mitochondrial central dogma,MRPL43
+Translation,MRPS18C
+OXPHOS,NDUFA8
+OXPHOS subunits,UQCRC1
+Metabolism,CMPK2
+Lipid metabolism,PHYH
+Metals and cofactors,PDSS1
+Mitochondrial dynamics and surveillance,SYNJ2BP
+Mitochondrial central dogma,MRPL44
+Translation,MRPS2
+OXPHOS,NDUFA9
+OXPHOS subunits,UQCRC2
+Metabolism,COASY
+Lipid metabolism,PISD
+Metals and cofactors,PDSS2
+Mitochondrial dynamics and surveillance,TMEM11
+Mitochondrial central dogma,MRPL45
+Translation,MRPS21
+OXPHOS,NDUFAB1
+OXPHOS subunits,UQCRFS1
+Metabolism,COMT
+Lipid metabolism,PLD6
+Metals and cofactors,PPOX
+Mitochondrial dynamics and surveillance,TOMM20
+Mitochondrial central dogma,MRPL46
+Translation,MRPS22
+OXPHOS,NDUFAF1
+OXPHOS subunits,UQCRH
+Metabolism,COQ10A
+Lipid metabolism,PLSCR3
+Metals and cofactors,QDPR
+Mitochondrial dynamics and surveillance,TOMM7
+Mitochondrial central dogma,MRPL47
+Translation,MRPS23
+OXPHOS,NDUFAF2
+OXPHOS subunits,UQCRQ
+Metabolism,COQ10B
+Lipid metabolism,PNPLA8
+Metals and cofactors,RSAD1
+Mitochondrial dynamics and surveillance,USP30
+Mitochondrial central dogma,MRPL48
+Translation,MRPS24
+OXPHOS,NDUFAF3
+Metabolism,COQ2
+Lipid metabolism,PRDX6
+Metals and cofactors,SCO1
+Mitochondrial dynamics and surveillance,VDAC1
+Mitochondrial central dogma,MRPL49
+Translation,MRPS25
+OXPHOS,NDUFAF4
+Metabolism,COQ3
+Lipid metabolism,PRELID1
+Metals and cofactors,SCO2
+Mitochondrial dynamics and surveillance,VPS13D
+Mitochondrial central dogma,MRPL50
+Translation,MRPS26
+OXPHOS,NDUFAF5
+Metabolism,COQ4
+Lipid metabolism,PRELID3A
+Metals and cofactors,SDHB
+Mitochondrial central dogma,MRPL51
+Translation,MRPS27
+OXPHOS,NDUFAF6
+Metabolism,COQ5
+Lipid metabolism,PRELID3B
+Metals and cofactors,SDHC
+Mitochondrial central dogma,MRPL52
+Translation,MRPS28
+OXPHOS,NDUFAF7
+Metabolism,COQ6
+Lipid metabolism,PTGES2
+Metals and cofactors,SDHD
+Mitochondrial central dogma,MRPL53
+Translation,MRPS30
+OXPHOS,NDUFAF8
+Metabolism,COQ7
+Lipid metabolism,PTPMT1
+Metals and cofactors,SIRT3
+Mitochondrial central dogma,MRPL54
+Translation,MRPS31
+OXPHOS,NDUFB1
+Metabolism,COQ8A
+Lipid metabolism,SCP2
+Metals and cofactors,SIRT4
+Mitochondrial central dogma,MRPL55
+Translation,MRPS33
+OXPHOS,NDUFB10
+Metabolism,COQ8B
+Lipid metabolism,SERAC1
+Metals and cofactors,SIRT5
+Mitochondrial central dogma,MRPL57
+Translation,MRPS34
+OXPHOS,NDUFB11
+Metabolism,COQ9
+Lipid metabolism,SLC25A1
+Metals and cofactors,SLC25A20
+Mitochondrial central dogma,MRPL58
+Translation,MRPS35
+OXPHOS,NDUFB2
+Metabolism,COX10
+Lipid metabolism,SLC25A20
+Metals and cofactors,SLC25A28
+Mitochondrial central dogma,MRPL9
+Translation,MRPS36
+OXPHOS,NDUFB3
+Metabolism,COX11
+Lipid metabolism,SPHK2
+Metals and cofactors,SLC25A3
+Mitochondrial central dogma,MRPS10
+Translation,MRPS5
+OXPHOS,NDUFB4
+Metabolism,COX15
+Lipid metabolism,SPTLC2
+Metals and cofactors,SLC25A37
+Mitochondrial central dogma,MRPS11
+Translation,MRPS6
+OXPHOS,NDUFB5
+Metabolism,COX17
+Lipid metabolism,STAR
+Metals and cofactors,SLC25A38
+Mitochondrial central dogma,MRPS12
+Translation,MRPS7
+OXPHOS,NDUFB6
+Metabolism,COX19
+Lipid metabolism,STARD7
+Metals and cofactors,SLC25A42
+Mitochondrial central dogma,MRPS14
+Translation,MRPS9
+OXPHOS,NDUFB7
+Metabolism,CPOX
+Lipid metabolism,TAMM41
+Metals and cofactors,SLC25A51
+Mitochondrial central dogma,MRPS15
+Translation,MRRF
+OXPHOS,NDUFB8
+Metabolism,CPS1
+Lipid metabolism,TAZ
+Metals and cofactors,SLC25A52
+Mitochondrial central dogma,MRPS16
+Translation,MTERF3
+OXPHOS,NDUFB9
+Metabolism,CPT1A
+Lipid metabolism,THEM4
+Metals and cofactors,SPR
+Mitochondrial central dogma,MRPS17
+Translation,MTERF4
+OXPHOS,NDUFC1
+Metabolism,CPT1B
+Lipid metabolism,THEM5
+Metals and cofactors,SUOX
+Mitochondrial central dogma,MRPS18A
+Translation,MTFMT
+OXPHOS,NDUFC2
+Metabolism,CPT1C
+Lipid metabolism,TRIAP1
+Metals and cofactors,TMLHE
+Mitochondrial central dogma,MRPS18B
+Translation,MTG1
+OXPHOS,NDUFS1
+Metabolism,CPT2
+Lipid metabolism,TSPO
+Metals and cofactors,UQCRFS1
+Mitochondrial central dogma,MRPS18C
+Translation,MTG2
+OXPHOS,NDUFS2
+Metabolism,CRAT
+Lipid metabolism,ZADH2
+Mitochondrial central dogma,MRPS2
+Translation,MTIF2
+OXPHOS,NDUFS3
+Metabolism,CRLS1
+Mitochondrial central dogma,MRPS21
+Translation,MTIF3
+OXPHOS,NDUFS4
+Metabolism,CROT
+Mitochondrial central dogma,MRPS22
+Translation,MTRES1
+OXPHOS,NDUFS5
+Metabolism,CS
+Mitochondrial central dogma,MRPS23
+Translation,MTRF1
+OXPHOS,NDUFS6
+Metabolism,CYB5B
+Mitochondrial central dogma,MRPS24
+Translation,MTRF1L
+OXPHOS,NDUFS7
+Metabolism,CYB5R3
+Mitochondrial central dogma,MRPS25
+Translation,NARS2
+OXPHOS,NDUFS8
+Metabolism,CYC1
+Mitochondrial central dogma,MRPS26
+Translation,NGRN
+OXPHOS,NDUFV1
+Metabolism,CYCS
+Mitochondrial central dogma,MRPS27
+Translation,NOA1
+OXPHOS,NDUFV2
+Metabolism,CYP11A1
+Mitochondrial central dogma,MRPS28
+Translation,NSUN4
+OXPHOS,NDUFV3
+Metabolism,CYP11B1
+Mitochondrial central dogma,MRPS30
+Translation,OXA1L
+OXPHOS,NUBPL
+Metabolism,CYP11B2
+Mitochondrial central dogma,MRPS31
+Translation,PARS2
+OXPHOS,PET100
+Metabolism,CYP24A1
+Mitochondrial central dogma,MRPS33
+Translation,PDF
+OXPHOS,PET117
+Metabolism,CYP27A1
+Mitochondrial central dogma,MRPS34
+Translation,PPA2
+OXPHOS,PNKD
+Metabolism,CYP27B1
+Mitochondrial central dogma,MRPS35
+Translation,PTCD3
+OXPHOS,RAB5IF
+Metabolism,D2HGDH
+Mitochondrial central dogma,MRPS36
+Translation,PUSL1
+OXPHOS,SCO1
+Metabolism,DBI
+Mitochondrial central dogma,MRPS5
+Translation,QRSL1
+OXPHOS,SCO2
+Metabolism,DBT
+Mitochondrial central dogma,MRPS6
+Translation,RARS2
+OXPHOS,SDHA
+Metabolism,DCXR
+Mitochondrial central dogma,MRPS7
+Translation,RBFA
+OXPHOS,SDHAF1
+Metabolism,DECR1
+Mitochondrial central dogma,MRPS9
+Translation,RMND1
+OXPHOS,SDHAF2
+Metabolism,DGLUCY
+Mitochondrial central dogma,MRRF
+Translation,SARS2
+OXPHOS,SDHAF3
+Metabolism,DGUOK
+Mitochondrial central dogma,MTERF1
+Translation,SLIRP
+OXPHOS,SDHAF4
+Metabolism,DHODH
+Mitochondrial central dogma,MTERF2
+Translation,TACO1
+OXPHOS,SDHB
+Metabolism,DHRS1
+Mitochondrial central dogma,MTERF3
+Translation,TARS2
+OXPHOS,SDHC
+Metabolism,DHRS2
+Mitochondrial central dogma,MTERF4
+Translation,TFB1M
+OXPHOS,SDHD
+Metabolism,DHRS4
+Mitochondrial central dogma,MTFMT
+Translation,TIMM21
+OXPHOS,SMIM20
+Metabolism,DHTKD1
+Mitochondrial central dogma,MTG1
+Translation,TRMT61B
+OXPHOS,SURF1
+Metabolism,DLAT
+Mitochondrial central dogma,MTG2
+Translation,TSFM
+OXPHOS,TACO1
+Metabolism,DLD
+Mitochondrial central dogma,MTIF2
+Translation,TUFM
+OXPHOS,TIMM21
+Metabolism,DLST
+Mitochondrial central dogma,MTIF3
+Translation,VARS2
+OXPHOS,TIMMDC1
+Metabolism,DMGDH
+Mitochondrial central dogma,MTO1
+Translation,WARS2
+OXPHOS,TMEM126A
+Metabolism,DNA2
+Mitochondrial central dogma,MTPAP
+Translation,YARS2
+OXPHOS,TMEM126B
+Metabolism,DTYMK
+Mitochondrial central dogma,MTRES1
+Translation,YBEY
+OXPHOS,TMEM177
+Metabolism,DUT
+Mitochondrial central dogma,MTRF1
+OXPHOS,TMEM186
+Metabolism,ECH1
+Mitochondrial central dogma,MTRF1L
+OXPHOS,TMEM70
+Metabolism,ECHDC1
+Mitochondrial central dogma,MUTYH
+OXPHOS,TTC19
+Metabolism,ECHS1
+Mitochondrial central dogma,MYG1
+OXPHOS,UQCC1
+Metabolism,ECI1
+Mitochondrial central dogma,NARS2
+OXPHOS,UQCC2
+Metabolism,ECI2
+Mitochondrial central dogma,NGRN
+OXPHOS,UQCC3
+Metabolism,EHHADH
+Mitochondrial central dogma,NOA1
+OXPHOS,UQCR10
+Metabolism,EPHX2
+Mitochondrial central dogma,NSUN2
+OXPHOS,UQCR11
+Metabolism,ETFA
+Mitochondrial central dogma,NSUN3
+OXPHOS,UQCRB
+Metabolism,ETFB
+Mitochondrial central dogma,NSUN4
+OXPHOS,UQCRC1
+Metabolism,ETFBKMT
+Mitochondrial central dogma,OGG1
+OXPHOS,UQCRC2
+Metabolism,ETFDH
+Mitochondrial central dogma,OSGEPL1
+OXPHOS,UQCRFS1
+Metabolism,ETFRF1
+Mitochondrial central dogma,OXA1L
+OXPHOS,UQCRH
+Metabolism,ETHE1
+Mitochondrial central dogma,PARS2
+OXPHOS,UQCRQ
+Metabolism,FABP1
+Mitochondrial central dogma,PDE12
+Metabolism,FAHD1
+Mitochondrial central dogma,PDF
+Metabolism,FAM210B
+Mitochondrial central dogma,PIF1
+Metabolism,FASN
+Mitochondrial central dogma,PNPT1
+Metabolism,FDPS
+Mitochondrial central dogma,POLB
+Metabolism,FDX1
+Mitochondrial central dogma,POLDIP2
+Metabolism,FDX2
+Mitochondrial central dogma,POLG
+Metabolism,FDXR
+Mitochondrial central dogma,POLG2
+Metabolism,FECH
+Mitochondrial central dogma,POLQ
+Metabolism,FH
+Mitochondrial central dogma,POLRMT
+Metabolism,FHIT
+Mitochondrial central dogma,PPA2
+Metabolism,FLAD1
+Mitochondrial central dogma,PRIMPOL
+Metabolism,FPGS
+Mitochondrial central dogma,PRORP
+Metabolism,FTH1
+Mitochondrial central dogma,PTCD1
+Metabolism,FTMT
+Mitochondrial central dogma,PTCD2
+Metabolism,FXN
+Mitochondrial central dogma,PTCD3
+Metabolism,GATM
+Mitochondrial central dogma,PUS1
+Metabolism,GCAT
+Mitochondrial central dogma,PUSL1
+Metabolism,GCDH
+Mitochondrial central dogma,QRSL1
+Metabolism,GCSH
+Mitochondrial central dogma,QTRT1
+Metabolism,GLDC
+Mitochondrial central dogma,RARS2
+Metabolism,GLRX2
+Mitochondrial central dogma,RBFA
+Metabolism,GLRX5
+Mitochondrial central dogma,RCC1L
+Metabolism,GLS
+Mitochondrial central dogma,RECQL4
+Metabolism,GLS2
+Mitochondrial central dogma,REXO2
+Metabolism,GLUD1
+Mitochondrial central dogma,RMND1
+Metabolism,GLUD2
+Mitochondrial central dogma,RNASEH1
+Metabolism,GLYAT
+Mitochondrial central dogma,RPUSD3
+Metabolism,GLYCTK
+Mitochondrial central dogma,RPUSD4
+Metabolism,GOT2
+Mitochondrial central dogma,SARS2
+Metabolism,GPAM
+Mitochondrial central dogma,SLIRP
+Metabolism,GPAT2
+Mitochondrial central dogma,SSBP1
+Metabolism,GPD2
+Mitochondrial central dogma,SUPV3L1
+Metabolism,GPT2
+Mitochondrial central dogma,TACO1
+Metabolism,GPX1
+Mitochondrial central dogma,TARS2
+Metabolism,GPX4
+Mitochondrial central dogma,TBRG4
+Metabolism,GRHPR
+Mitochondrial central dogma,TEFM
+Metabolism,GRPEL1
+Mitochondrial central dogma,TFAM
+Metabolism,GRPEL2
+Mitochondrial central dogma,TFB1M
+Metabolism,GSR
+Mitochondrial central dogma,TFB2M
+Metabolism,GSTK1
+Mitochondrial central dogma,THG1L
+Metabolism,GSTZ1
+Mitochondrial central dogma,TIMM21
+Metabolism,GTPBP3
+Mitochondrial central dogma,TOP1MT
+Metabolism,GUK1
+Mitochondrial central dogma,TOP3A
+Metabolism,HADH
+Mitochondrial central dogma,TRIT1
+Metabolism,HADHA
+Mitochondrial central dogma,TRMT1
+Metabolism,HADHB
+Mitochondrial central dogma,TRMT10C
+Metabolism,HAGH
+Mitochondrial central dogma,TRMT2B
+Metabolism,HAO2
+Mitochondrial central dogma,TRMT5
+Metabolism,HCCS
+Mitochondrial central dogma,TRMT61B
+Metabolism,HIBADH
+Mitochondrial central dogma,TRMU
+Metabolism,HIBCH
+Mitochondrial central dogma,TRNT1
+Metabolism,HINT1
+Mitochondrial central dogma,TRUB2
+Metabolism,HINT2
+Mitochondrial central dogma,TSFM
+Metabolism,HMGCL
+Mitochondrial central dogma,TUFM
+Metabolism,HMGCS2
+Mitochondrial central dogma,TWNK
+Metabolism,HOGA1
+Mitochondrial central dogma,UNG
+Metabolism,HSCB
+Mitochondrial central dogma,VARS2
+Metabolism,HSD17B10
+Mitochondrial central dogma,WARS2
+Metabolism,HSD17B4
+Mitochondrial central dogma,YARS2
+Metabolism,HSD17B8
+Mitochondrial central dogma,YBEY
+Metabolism,HSPA9
+Mitochondrial central dogma,YRDC
+Metabolism,HTD2
+Metabolism,IBA57
+Metabolism,IDH2
+Metabolism,IDH3A
+Metabolism,IDH3B
+Metabolism,IDH3G
+Metabolism,IDI1
+Metabolism,ISCA1
+Metabolism,ISCA2
+Metabolism,ISCU
+Metabolism,IVD
+Metabolism,KMO
+Metabolism,KYAT3
+Metabolism,L2HGDH
+Metabolism,LACTB
+Metabolism,LDHAL6B
+Metabolism,LDHB
+Metabolism,LDHD
+Metabolism,LIAS
+Metabolism,LIPT1
+Metabolism,LIPT2
+Metabolism,LYPLA1
+Metabolism,LYPLAL1
+Metabolism,LYRM4
+Metabolism,MAOA
+Metabolism,MAOB
+Metabolism,MCAT
+Metabolism,MCCC1
+Metabolism,MCCC2
+Metabolism,MCEE
+Metabolism,MDH2
+Metabolism,ME2
+Metabolism,ME3
+Metabolism,MECR
+Metabolism,MGST1
+Metabolism,MGST3
+Metabolism,MLYCD
+Metabolism,MMAA
+Metabolism,MMAB
+Metabolism,MMADHC
+Metabolism,MMUT
+Metabolism,MOCS1
+Metabolism,MPC1
+Metabolism,MPC1L
+Metabolism,MPC2
+Metabolism,MPST
+Metabolism,MRPS36
+Metabolism,MSRA
+Metabolism,MSRB2
+Metabolism,MSRB3
+Metabolism,MT-CO1
+Metabolism,MT-CYB
+Metabolism,MTARC1
+Metabolism,MTARC2
+Metabolism,MTFMT
+Metabolism,MTHFD1L
+Metabolism,MTHFD2
+Metabolism,MTHFD2L
+Metabolism,MTHFS
+Metabolism,MTO1
+Metabolism,NADK2
+Metabolism,NAGS
+Metabolism,NAT8L
+Metabolism,NAXD
+Metabolism,NAXE
+Metabolism,NDUFAB1
+Metabolism,NDUFS1
+Metabolism,NDUFS2
+Metabolism,NDUFS7
+Metabolism,NDUFS8
+Metabolism,NDUFV1
+Metabolism,NDUFV2
+Metabolism,NEU4
+Metabolism,NFS1
+Metabolism,NFU1
+Metabolism,NIT1
+Metabolism,NIT2
+Metabolism,NME3
+Metabolism,NME4
+Metabolism,NME6
+Metabolism,NMNAT3
+Metabolism,NNT
+Metabolism,NOCT
+Metabolism,NT5DC2
+Metabolism,NT5M
+Metabolism,NTHL1
+Metabolism,NUBPL
+Metabolism,NUDT13
+Metabolism,NUDT19
+Metabolism,NUDT2
+Metabolism,NUDT5
+Metabolism,NUDT8
+Metabolism,NUDT9
+Metabolism,OAT
+Metabolism,OGDH
+Metabolism,OGDHL
+Metabolism,OSBPL1A
+Metabolism,OTC
+Metabolism,OXCT1
+Metabolism,OXCT2
+Metabolism,OXR1
+Metabolism,OXSM
+Metabolism,PAICS
+Metabolism,PANK2
+Metabolism,PC
+Metabolism,PCBD2
+Metabolism,PCCA
+Metabolism,PCCB
+Metabolism,PCK2
+Metabolism,PDHA1
+Metabolism,PDHA2
+Metabolism,PDHB
+Metabolism,PDHX
+Metabolism,PDK1
+Metabolism,PDK2
+Metabolism,PDK3
+Metabolism,PDK4
+Metabolism,PDP1
+Metabolism,PDP2
+Metabolism,PDPR
+Metabolism,PDSS1
+Metabolism,PDSS2
+Metabolism,PGS1
+Metabolism,PHYH
+Metabolism,PISD
+Metabolism,PLD6
+Metabolism,PLPBP
+Metabolism,PLSCR3
+Metabolism,PNPLA8
+Metabolism,PNPO
+Metabolism,PPA2
+Metabolism,PPM1K
+Metabolism,PPOX
+Metabolism,PRDX2
+Metabolism,PRDX3
+Metabolism,PRDX4
+Metabolism,PRDX5
+Metabolism,PRDX6
+Metabolism,PRELID1
+Metabolism,PRELID3A
+Metabolism,PRELID3B
+Metabolism,PRODH
+Metabolism,PRODH2
+Metabolism,PRXL2A
+Metabolism,PTGES2
+Metabolism,PTPMT1
+Metabolism,PYCR1
+Metabolism,PYCR2
+Metabolism,QDPR
+Metabolism,RDH13
+Metabolism,RDH14
+Metabolism,RFK
+Metabolism,RPIA
+Metabolism,RSAD1
+Metabolism,SARDH
+Metabolism,SCO1
+Metabolism,SCO2
+Metabolism,SCP2
+Metabolism,SDHA
+Metabolism,SDHB
+Metabolism,SDHC
+Metabolism,SDHD
+Metabolism,SDSL
+Metabolism,SELENOO
+Metabolism,SERAC1
+Metabolism,SFXN1
+Metabolism,SFXN3
+Metabolism,SFXN5
+Metabolism,SHMT2
+Metabolism,SIRT3
+Metabolism,SIRT4
+Metabolism,SIRT5
+Metabolism,SLC25A1
+Metabolism,SLC25A10
+Metabolism,SLC25A11
+Metabolism,SLC25A12
+Metabolism,SLC25A13
+Metabolism,SLC25A14
+Metabolism,SLC25A15
+Metabolism,SLC25A19
+Metabolism,SLC25A20
+Metabolism,SLC25A21
+Metabolism,SLC25A23
+Metabolism,SLC25A24
+Metabolism,SLC25A25
+Metabolism,SLC25A28
+Metabolism,SLC25A29
+Metabolism,SLC25A3
+Metabolism,SLC25A30
+Metabolism,SLC25A31
+Metabolism,SLC25A32
+Metabolism,SLC25A33
+Metabolism,SLC25A36
+Metabolism,SLC25A37
+Metabolism,SLC25A38
+Metabolism,SLC25A4
+Metabolism,SLC25A41
+Metabolism,SLC25A42
+Metabolism,SLC25A44
+Metabolism,SLC25A5
+Metabolism,SLC25A51
+Metabolism,SLC25A52
+Metabolism,SLC25A6
+Metabolism,SOD1
+Metabolism,SOD2
+Metabolism,SPHK2
+Metabolism,SPR
+Metabolism,SPTLC2
+Metabolism,SQOR
+Metabolism,STAR
+Metabolism,STARD7
+Metabolism,SUCLA2
+Metabolism,SUCLG1
+Metabolism,SUCLG2
+Metabolism,SUGCT
+Metabolism,SUOX
+Metabolism,TAMM41
+Metabolism,TAZ
+Metabolism,THEM4
+Metabolism,THEM5
+Metabolism,TK2
+Metabolism,TMLHE
+Metabolism,TRIAP1
+Metabolism,TSPO
+Metabolism,TST
+Metabolism,TSTD1
+Metabolism,TXN2
+Metabolism,TXNRD1
+Metabolism,TXNRD2
+Metabolism,UQCRFS1
+Metabolism,ZADH2
