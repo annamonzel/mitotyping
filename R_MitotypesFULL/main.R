@@ -69,3 +69,6 @@ source("Code/Figure6/2_Fig6A-F_DataPreparation.R")
 source("Code/Figure6/3_Fig6A-F_Figures.R")
 source("Code/Figure6/4_Fig6G-H_DataPreparation.R")
 source("Code/Figure6/5_Fig6G-H_Figures.R")
+
+# Session info
+#writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
