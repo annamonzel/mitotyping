@@ -36,40 +36,68 @@ dir.create(file.path("Figures/Figure3"), showWarnings = FALSE)
 dir.create(file.path("Figures/Figure4"), showWarnings = FALSE)
 dir.create(file.path("Figures/Figure5"), showWarnings = FALSE)
 dir.create(file.path("Figures/Figure6"), showWarnings = FALSE)
-dir.create(file.path("Data/Fibroblasts/ProcessedData"), showWarnings = FALSE)
+dir.create(file.path("Figures/Figure6/Gene_Heatmaps"), showWarnings = FALSE)
+dir.create(file.path("Figures/Figure6/Gene_FeaturePlots"), showWarnings = FALSE)
+dir.create(file.path("Figures/Figure6/scGSEA_FeaturePlots"), showWarnings = FALSE)
+dir.create(file.path("Figures/Figure6/Pathway_dynamics"), showWarnings = FALSE)
+#dir.create(file.path("Data/Fibroblasts/ProcessedData"), showWarnings = FALSE)
 dir.create(file.path("Data/GTEx/ProcessedData"), showWarnings = FALSE)
 dir.create(file.path("Data/GTEx/ProcessedData/MitoTMM_Tissue"), showWarnings = FALSE)
 dir.create(file.path("Data/HumanProteinAtlas/ProcessedData"), showWarnings = FALSE)
 dir.create(file.path("Data/MitoCarta/ProcessedData"), showWarnings = FALSE)
+#dir.create(file.path("Data/Guo_et_al/ProcessedData"), showWarnings = FALSE)
+dir.create(file.path("Data/MBM_ROSMAP/ProcessedData"), showWarnings = FALSE)
 options(warn=-1) ## optional to suppress warning messages. Details on the warning messages can be extracted using warnings()
 #options(warn=0) ## turn on warning messages
 
 ## Code for Figure 2, Supplemental Figures S2 and S3
 source("Code/Figure2/Fig2A-B_MouseData.R")
 source("Code/Figure2/Fig2D-E_HumanProteinAtlas.R")
-source("Code/Figure2/Fig2F-I_GTEx.R") 
+source("Code/Figure2/Fig2F-G_Correlation.R")
+source("Code/Figure2/Fig2H-K_GTEx.R") 
+source("Code/Figure2/Gene_to_pathway_levels.R")
 source("Code/Figure2/SupplFig3_GTEx_TPMvsTMM.R")
 
-## Code for Figure 3
-source("Code/Figure3/Figure3_C-D.R")
-source("Code/Figure3/Gene_to_pathway_levels.R")
+## Code for Figure 3, supplemental figures S4-8
+source("Code/Figure3/Fig3A_B.R")
+source("Code/Figure3/MitoPPS_calculation.R")
+source("Code/Figure3/Fig3C_Heatmap.R")
+source("Code/Figure3/Fig3D_E_PCAs.R")
+source("Code/Figure3/Suppl_FigS4.R")
+source("Code/Figure3/Suppl_FigS6_Conceptual_Figure.R")
+source("Code/Figure3/Suppl_FigS8_Barplots.R")
 
-## Code for Figure 4, Supplemental Figures S4 + S5
-source("Code/Figure4/Figure4.R")
-source("Code/Figure4/Suppl_FigureS5_Conceptual_Figure.R")
 
-## Code for Figure 5, Supplemental Figures S6 and S7
-source("Code/Figure5/MitoPPS_calculation.R")
-source("Code/Figure5/Fig5A_Heatmap.R")
-source("Code/Figure5/Fig5B_C_D_PCAs.R")
-source("Code/Figure5/Suppl_FigS7_Barplots.R")
+## Code for Figure 4, Supplemental Figures S9 - S11
+rmarkdown::render(input = 'Code/Figure4/1_RNAseq_normalization_prep.Rmd')
+source("Code/Figure4/2_Fig4A-F_DataPreparation.R")
+source("Code/Figure4/3_Fig4A-F_Figures.R")
+source("Code/Figure4/4_Fig4G-H_DataPreparation.R")
+source("Code/Figure4/5_Fig4G-H_Figures.R")
 
-## Code for Figure 6, Supplemental Figures S8, S9, and S10
-rmarkdown::render(input = 'Code/Figure6/1_RNAseq_normalization_prep.Rmd')
-source("Code/Figure6/2_Fig6A-F_DataPreparation.R")
-source("Code/Figure6/3_Fig6A-F_Figures.R")
-source("Code/Figure6/4_Fig6G-H_DataPreparation.R")
-source("Code/Figure6/5_Fig6G-H_Figures.R")
+
+## Code for Figure 5, Supplemental Figure S12
+source("Code/Figure5/mitoPPS_MBM.R")
+source("Code/Figure5/mitoPPS_RM.R")
+source("Code/Figure5/Figure5_A_B.R")
+source("Code/Figure5/Figure5_C.R")
+source("Code/Figure5/Figure5_D_PCA.R")
+source("Code/Figure5/Figure5_E_Heatmap.R")
+
+list.files(here::here("Code", "Figure6"))
+## Code for Figure 6, Supplemental Figures S13 - S15
+
+source("Code/Figure6/data_preparation.R")
+source("Code/Figure6/Gene_FeaturePlots_Heatmaps.R")
+source("Code/Figure6/mitoPPS_calculations.R")
+source("Code/Figure6/scGSEA_FeaturePlots.R")
+source("Code/Figure6/Fig6C_mt_nuc_genome_pt.R")
+source("Code/Figure6/Fig6D_subunits_assembly.R")
+source("Code/Figure6/Fig6E_mtPPS_Heatmap.R")
+source("Code/Figure6/Fig6F_TopPathways_new.R")
+source("Code/Figure6/Fig6F_TopPathways.R")
+
+## Note: scGSEA needs to be run in a docker container. The 
 
 # Session info
 #writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
