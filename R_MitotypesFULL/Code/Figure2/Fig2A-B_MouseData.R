@@ -211,7 +211,33 @@ png(here::here( "Figures", "Figure2","Fig2B_PCA_ms.png"),width=2.22,height=2.22,
 print(p)
 dev.off()
 
-
+p <- autoplot(pca,x = 3, y= 4, data = data, colour = 'Group', size = 2.8, alpha = 0.7)+#,loadings = T, loadings.label = TRUE, loadings.label.size  = 1) +
+  theme_bw() +
+  scale_color_manual(values = c(c("CNS"= "#1DB100",
+                                  "Contractile"="#F8BA00",
+                                  "Reproductive"="#EE220C",
+                                  "Digestive"="#265A8C",
+                                  "Anabolic"="#EF5FA7",
+                                  "Secretory"="#A8A8A8",
+                                  "Other"="khaki",
+                                  "Immune"="#00A89D"))) +
+  theme(
+    axis.title = element_text(size = 7),
+    axis.text = element_text(size = 6),
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.text = element_blank(),
+    legend.title = element_blank(),
+    legend.position = "none",
+    panel.grid.major = element_blank(), 
+    panel.grid.minor = element_blank())
+p
+png(here::here( "Figures", "Figure2","Suppl_Fig2A_PCA2_ms.png"),width=2.22,height=2.22,units="in",res=1200)
+print(p)
+dev.off()
+plotly::ggplotly(autoplot(pca,x = 3, y= 4,data = data, colour = 'Tissue',
+                          fill = 'Group', size = 2.8, alpha = 0.6, shape = 21)+
+                   scale_fill_manual(values = color_groups) +
+                   theme_bw())
 # Supplemental figures
 
 

@@ -198,7 +198,21 @@ png(here::here("Figures", "Figure2", "Fig2E_PCA_hm.png"),width=2.22,height=2.22,
 print(p)
 dev.off()
 
-
+p <- autoplot(pca,x = 3, y= 4,data = processed_data, colour = 'Group',
+                   fill = 'Group', size = 2.8, alpha = 0.6, shape = 21)+
+  scale_color_manual(values = color_groups) +
+  scale_fill_manual(values = color_groups) +
+  theme_bw() +
+  theme_pca 
+p
+png(here::here("Figures", "Figure2", "Suppl_Fig2B_PCA2_hm.png"),width=2.22,height=2.22,units="in",res=1200)
+print(p)
+dev.off()
+plotly::ggplotly(autoplot(pca,x = 3, y= 4,data = processed_data, colour = 'Tissue',
+                          fill = 'Group', size = 2.8, alpha = 0.6, shape = 21)+
+                   scale_fill_manual(values = color_groups) +
+                   theme_bw() +
+                   theme_pca )
 
 ## PCA 2 -------------------------------------------------------------------
 
@@ -213,13 +227,13 @@ data_sub <- processed_data %>%
                         "Adrenal gland", "Parathyroid gland"))
 pca <- prcomp(data_sub[,-c(1,2)], scale. = T)
 summary(pca)
-p <-  p <- autoplot(pca, data = data_sub, colour = 'Tissue',
+p <- autoplot(pca, data = data_sub, colour = 'Tissue',
                     fill = 'Group', size = 2.8, alpha = 0.6, shape = 21)+
   scale_color_manual(values = color_tissue) +
   scale_fill_manual(values = color_groups) +
   theme_pca +
   theme(panel.background=element_rect(color = "black", fill = "white", linetype = "dotted"))
-
+plotly::ggplotly(p)
 png(here::here("Figures", "Figure2", "Fig2E_PCA2_hm.png"),width=2.22,height=2.22,units="in",res=1200)
 print(p)
 dev.off()

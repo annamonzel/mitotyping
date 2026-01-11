@@ -110,7 +110,7 @@ dge$samples %>%
     panel.grid.minor = element_blank(),
     strip.background = element_rect("white"),
     axis.title = element_text(size = 6))
-ggsave(here::here("Figures", "Figure2", "Suppl_Fig3A_Libraries.png"), width = 7.5, height = 3.5, units = "in")
+ggsave(here::here("Figures", "Figure2", "Suppl_FigS3A_Libraries.png"), width = 7.5, height = 3.5, units = "in")
 
 dge$samples %>%
   rownames_to_column("SAMPID") %>%
